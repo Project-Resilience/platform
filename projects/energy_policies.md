@@ -2,7 +2,7 @@
 
 A project the relies on a climate change simulator to optimize energy policies.
 
-[![Goal 7](../images/sdgs/E-WEB-Goal-07.png)](https://sdgs.un.org/goals/goal7)
+[![Goal 7](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07.md)
 
 ## Decision makers
 
