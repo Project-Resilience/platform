@@ -6,7 +6,7 @@ Goal 7: [Ensure access to affordable, reliable, sustainable and modern energy fo
 
 ## Projects
 
-- [Energy policies optimization](https://climatechange.evolution.ml/)
+- [Energy policies optimization](../projects/energy_policies.md)
 
 ## Ideas
 
