@@ -2,8 +2,8 @@
 
 A project that villagers can implement to directly impact food security within their small community.
 
-| [![Goal 2](../images/sdgs/E-WEB-Goal-02.png)](https://sdgs.un.org/goals/goal2) | [![Goal 4](../images/sdgs/E-WEB-Goal-04.png)](https://sdgs.un.org/goals/goal4) |
-|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| [![Goal 2](../images/sdgs/E-WEB-Goal-02.png)](../goals/goal_02.md) | [![Goal 4](../images/sdgs/E-WEB-Goal-04.png)](../goals/goal_04.md) |
+|--------------------------------------------------------------------|--------------------------------------------------------------------|
 
 ## Decision makers
 

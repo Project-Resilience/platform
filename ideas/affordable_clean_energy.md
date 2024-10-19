@@ -2,8 +2,8 @@
 
 A project that simulates realistic scenarios for implementing energy efficiency programs across various sectors.
 
-| [![Goal 7](../images/sdgs/E-WEB-Goal-07.png)](https://sdgs.un.org/goals/goal7) |
-|--------------------------------------------------------------------------------|
+| [![Goal 7](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07.md) |
+|--------------------------------------------------------------------|
 
 ## Decision makers
 
