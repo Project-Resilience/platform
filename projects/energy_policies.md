@@ -1,9 +1,9 @@
 # Energy policies optimization
 
-A project the relies on a climate change simulator to optimize energy policies.
+A project that relies on a climate change simulator to optimize energy policies.
 
-| [![Goal 7](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07.md) | [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)](../goals/goal_013.md) |
-|--------------------------------------------------------------------|----------------------------------------------------------------------|
+| [![Goal 7](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07.md) | [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)](../goals/goal_13.md) |
+|--------------------------------------------------------------------|---------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -62,3 +62,5 @@ TODO
 ## References
 
 - [En-ROADS climate solutions simulator](https://www.climateinteractive.org/en-roads/)
+
+[Back to the list of projects](../README.md)
