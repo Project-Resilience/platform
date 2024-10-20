@@ -15,7 +15,12 @@ tool in empowering individuals, especially women, and fostering economic develop
 To combat poverty, promote financial independence, and empower rural entrepreneurs (especially women) through
 microfinance, contributing to broader socio-economic development.
 
-## Possible data attributes
+## Interactive application
+
+<!-- Provide a link to the interactive application -->
+(none)
+
+## Data attributes
 
 ### Context Attributes
 1. **Region** (Categorical): ['Sub-SaharanAfrica', 'SouthAsia', 'SoutheastAsia', 'LatinAmerica']
@@ -42,6 +47,21 @@ microfinance, contributing to broader socio-economic development.
 3. **RepaymentRate** (Numerical, integer): Percentage of loans repaid in full.
 4. **EconomicImpactScore** (Numerical, integer): Measure of the project's overall economic impact on the community on a scale of 1 to 100.
 5. **Cost** (Numerical, integer): Calculated based on LoanAmount, InterestRate, RepaymentPeriod, and operational costs.
+
+## Data
+
+<!-- Describe the data that is used to evaluate the decisions -->
+(none)
+
+## Code
+
+<!-- Point to the repo that contains the code -->
+(none)
+
+## References
+
+<!-- Provide a list of references or other resources used in the project -->
+(none)
 
 ## Discussion
 

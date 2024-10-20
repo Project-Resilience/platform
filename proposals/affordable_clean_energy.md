@@ -17,7 +17,12 @@ To identify and implement the most effective energy efficiency measures across d
 (residential, commercial, industrial) to reduce energy consumption and costs, considering the specific characteristics
 and needs of each sector.
 
-## Possible Data Attributes
+## Interactive application
+
+<!-- Provide a link to the interactive application -->
+(none)
+
+## Data Attributes
 
 ### Context Attributes
 1. **Sector**: Categorical (`Residential`, `Commercial`, `Industrial`)
@@ -43,6 +48,21 @@ and needs of each sector.
 2. **OperationalCostSavings**: Integer (USD per year)
 3. **ROI**: Float (percentage, calculated as savings over investment cost)
 4. **Cost**: Integer (USD, calculated based on `InvestmentCost` and potential financing impacts)
+
+## Data
+
+<!-- Describe the data that is used to evaluate the decisions -->
+(none)
+
+## Code
+
+<!-- Point to the repo that contains the code -->
+(none)
+
+## References
+
+<!-- Provide a list of references or other resources used in the project -->
+(none)
 
 ## Discussion
 

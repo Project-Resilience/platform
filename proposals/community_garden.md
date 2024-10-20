@@ -13,7 +13,12 @@ A project that villagers can implement to directly impact food security within t
 To enhance food security, improve nutritional outcomes, and promote sustainable agricultural practices within a small
 community through the establishment of a community garden coupled with an education program.
 
-## Possible Data Attributes
+## Interactive application
+
+<!-- Provide a link to the interactive application -->
+(none)
+
+## Data Attributes
 
 ### Context Attributes
 1. **CommunitySize** (Numerical Integer): The population of the village.
@@ -39,6 +44,21 @@ community through the establishment of a community garden coupled with an educat
 2. **NutritionalDiversity** (Categorical): {Low, Moderate, High} - Variety in the nutritional value of food available to the community post-project.
 3. **SustainabilityIndex** (Numerical Integer): Score from 1 to 10, evaluating the long-term sustainability of the garden project.
 4. **Cost** (Numerical Integer): Calculated based on garden size, crop variety, irrigation method, and training sessions.
+
+## Data
+
+<!-- Describe the data that is used to evaluate the decisions -->
+(none)
+
+## Code
+
+<!-- Point to the repo that contains the code -->
+(none)
+
+## References
+
+<!-- Provide a list of references or other resources used in the project -->
+(none)
 
 ## Discussion
 
