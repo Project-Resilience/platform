@@ -2,7 +2,8 @@
 
 A project the relies on a climate change simulator to optimize energy policies.
 
-[![Goal 7](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07.md)
+| [![Goal 7](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07.md) | [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)](../goals/goal_013.md) |
+|--------------------------------------------------------------------|----------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -50,6 +51,14 @@ See the 'Show Actions' button in the [interactive application](https://climatech
 - Government spending (T$) (Minimize)
 - Reduction in energy demand (EJ) (Minimize)
 
+## Data
+
+Decisions are evaluated using the [En-ROADS climate solutions simulator](https://www.climateinteractive.org/en-roads/).
+
+## Code
+
+TODO
+
 ## References
 
-This project relies on the [En-ROADS climate solutions simulator](https://www.climateinteractive.org/en-roads/) to estimate the outcomes.
+- [En-ROADS climate solutions simulator](https://www.climateinteractive.org/en-roads/)
