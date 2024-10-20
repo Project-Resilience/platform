@@ -11,3 +11,5 @@ Goal 8: [Promote sustained, inclusive and sustainable economic growth, full and 
 ## Proposals
 
 - TODO
+
+[Back to the list of projects](../README.md)

@@ -11,3 +11,5 @@ Goal 15: [Protect, restore and promote sustainable use of terrestrial ecosystems
 ## Proposals
 
 - TODO
+
+[Back to the list of projects](../README.md)

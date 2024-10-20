@@ -11,3 +11,5 @@ Goal 4: [Ensure inclusive and equitable quality education and promote lifelong l
 ## Proposals
 
 - TODO
+
+[Back to the list of projects](../README.md)

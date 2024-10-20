@@ -11,3 +11,5 @@ Goal 5: [Achieve gender equality and empower all women and girls](https://sdgs.u
 ## Proposals
 
 - TODO
+
+[Back to the list of projects](../README.md)

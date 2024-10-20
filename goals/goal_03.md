@@ -11,3 +11,5 @@ Goal 3: [Ensure healthy lives and promote well-being for all at all ages](https:
 ## Proposals
 
 - TODO
+
+[Back to the list of projects](../README.md)

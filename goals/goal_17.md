@@ -11,3 +11,5 @@ Goal 17: [Strengthen the means of implementation and revitalize the Global Partn
 ## Proposals
 
 - TODO
+
+[Back to the list of projects](../README.md)

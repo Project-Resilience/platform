@@ -11,3 +11,5 @@ Goal 16: [Promote peaceful and inclusive societies for sustainable development, 
 ## Proposals
 
 - TODO
+
+[Back to the list of projects](../README.md)

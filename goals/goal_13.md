@@ -11,3 +11,5 @@
 ## Proposals
 
 - TODO
+
+[Back to the list of projects](../README.md)
