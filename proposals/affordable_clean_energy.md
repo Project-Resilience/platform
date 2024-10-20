@@ -43,3 +43,10 @@ and needs of each sector.
 2. **OperationalCostSavings**: Integer (USD per year)
 3. **ROI**: Float (percentage, calculated as savings over investment cost)
 4. **Cost**: Integer (USD, calculated based on `InvestmentCost` and potential financing impacts)
+
+## Discussion
+
+<!-- Provide a link to a space for discussion or comments -->
+(no discussion yet)
+
+[Back to the list of projects](../README.md)

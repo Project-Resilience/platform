@@ -39,3 +39,10 @@ community through the establishment of a community garden coupled with an educat
 2. **NutritionalDiversity** (Categorical): {Low, Moderate, High} - Variety in the nutritional value of food available to the community post-project.
 3. **SustainabilityIndex** (Numerical Integer): Score from 1 to 10, evaluating the long-term sustainability of the garden project.
 4. **Cost** (Numerical Integer): Calculated based on garden size, crop variety, irrigation method, and training sessions.
+
+## Discussion
+
+<!-- Provide a link to a space for discussion or comments -->
+(no discussion yet)
+
+[Back to the list of projects](../README.md)

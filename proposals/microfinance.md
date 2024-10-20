@@ -42,3 +42,10 @@ microfinance, contributing to broader socio-economic development.
 3. **RepaymentRate** (Numerical, integer): Percentage of loans repaid in full.
 4. **EconomicImpactScore** (Numerical, integer): Measure of the project's overall economic impact on the community on a scale of 1 to 100.
 5. **Cost** (Numerical, integer): Calculated based on LoanAmount, InterestRate, RepaymentPeriod, and operational costs.
+
+## Discussion
+
+<!-- Provide a link to a space for discussion or comments -->
+(no discussion yet)
+
+[Back to the list of projects](../README.md)

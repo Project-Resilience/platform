@@ -57,10 +57,14 @@ Decisions are evaluated using the [En-ROADS climate solutions simulator](https:/
 
 ## Code
 
-TODO
+(code not available yet)
 
 ## References
 
 - [En-ROADS climate solutions simulator](https://www.climateinteractive.org/en-roads/)
+
+## Discussion
+
+(no discussion yet)
 
 [Back to the list of projects](../README.md)

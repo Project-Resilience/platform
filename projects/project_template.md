@@ -69,4 +69,9 @@ The code for this project is available here: [Code](https://exmaple.com)
 - Reference 2
 - ...
 
+## Discussion
+
+<!-- Provide a link to a space for discussion or comments -->
+(no discussion yet)
+
 [Back to the list of projects](../README.md)
