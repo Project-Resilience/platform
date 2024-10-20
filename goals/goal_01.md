@@ -7,6 +7,6 @@ Goal 1: [End poverty in all its forms everywhere](https://sdgs.un.org/goals/goal
 
 (no Project Resilience project yet)
 
-## Ideas
+## Proposals
 
-- [A Microfinance Program in Rural Areas](../ideas/microfinance.md)
+- [A Microfinance Program in Rural Areas](../proposals/microfinance.md)

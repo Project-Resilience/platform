@@ -7,6 +7,6 @@ Goal 2: [End hunger, achieve food security and improved nutrition and promote su
 
 (no Project Resilience project yet)
 
-## Ideas
+## Proposals
 
-- [A Microfinance Program in Rural Areas](../ideas/community_garden.md)
+- [A Microfinance Program in Rural Areas](../proposals/community_garden.md)

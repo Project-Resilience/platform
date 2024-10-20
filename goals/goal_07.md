@@ -3,11 +3,10 @@ Goal 7: [Ensure access to affordable, reliable, sustainable and modern energy fo
 
 [![Goal 7](../images/sdgs/E-WEB-Goal-07.png)](https://sdgs.un.org/goals/goal7)
 
-
 ## Projects
 
 - [Energy policies optimization](../projects/energy_policies.md)
 
-## Ideas
+## Proposals
 
-- [Affordable and clean energy](../ideas/affordable_clean_energy.md)
+- [Affordable and clean energy](../proposals/affordable_clean_energy.md)
