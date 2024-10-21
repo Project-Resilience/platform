@@ -26,10 +26,10 @@ The user interface is available here: [Energy policies optimization](https://cli
 A scenario like one of the five Shared Socioeconomic Pathways from the AR6 climate report,
 or a custom scenario.
 
-- Long-Term Economic Growth (GDP PPP)
-- Near-Term Economic Growth (GDP PPP)
-- Transition Time (years)
-- Population (B)
+- Long-Term Economic Growth (GDP Per Person)
+- Near-Term Economic Growth (GDP Per Person)
+- Transition Time (Years)
+- Population (Billion)
 
 ### Actions
 
