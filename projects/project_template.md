@@ -3,7 +3,7 @@
 <!-- Describe the project in one sentence, e.g. A project that... -->
 Project description
 
-<!-- Inser SDG Icons and links-->
+<!-- Insert SDG Icons and links-->
 | [![Goal X](../images/sdgs/E-WEB-Goal-0X.png)](../goals/goal_0X.md) | [![Goal X](../images/sdgs/E-WEB-Goal-X.png)](../goals/goal_X.md) |
 |--------------------------------------------------------------------|------------------------------------------------------------------|
 
