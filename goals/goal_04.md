@@ -10,6 +10,6 @@ Goal 4: [Ensure inclusive and equitable quality education and promote lifelong l
 
 ## Proposals
 
-- TODO
+- [Technology Integration in Education](../proposals/technology_education.md)
 
 [Back to the list of projects](../README.md)

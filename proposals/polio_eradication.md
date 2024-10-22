@@ -58,9 +58,9 @@ Decision makers can take the following decisions:
 <!-- Describe the metrics decision makers are trying to optimize, on which they are evaluatded -->
 Decision makers are evaluated on the following outcomes:
 
-1. **OutbreakRiskReduction**: Numerical (percentage reduction in outbreak risk)
-2. **CoverageImprovement**: Numerical (percentage increase in vaccination coverage)
-3. **Cost**: Numerical (estimated cost of the vaccination campaign in USD)
+1. **OutbreakRiskReduction**: Numerical (percentage reduction in outbreak risk) (Maximize)
+2. **CoverageImprovement**: Numerical (percentage increase in vaccination coverage) (Maximize)
+3. **Cost**: Numerical (estimated cost of the vaccination campaign in USD) (Minimize)
 
 ## Data
 

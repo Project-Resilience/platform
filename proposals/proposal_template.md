@@ -11,8 +11,6 @@ Project description
 
 <!-- List decision makers that could use this project-->
 - Decision maker 1
-- Decision maker 2
-- ...
 
 ## Objectives
 
@@ -22,7 +20,7 @@ To optimize ...
 ## Interactive application
 
 <!-- Provide a link to the interactive application -->
-The user interface is available here: [Project_Name](https://example.com/)
+(none)
 
 ## Data attributes
 
@@ -56,19 +54,17 @@ Decision makers are evaluated on the following outcomes:
 ## Data
 
 <!-- Describe the data that is used to evaluate the decisions -->
-The dataset of historical context/action/outcomes decisions is available here: [Data](https://example.com/)
+(none)
 
 ## Code
 
 <!-- Point to the repo that contains the code -->
-The code for this project is available here: [Code](https://exmaple.com)
+(none)
 
 ## References
 
 <!-- Provide a list of references or other resources used in the project -->
-- Reference 1
-- Reference 2
-- ...
+(none)
 
 ## Discussion
 

@@ -11,5 +11,6 @@
 ## Proposals
 
 - [Global Polio Eradication Initiative](../proposals/polio_eradication.md)
+- [Technology Integration in Education](../proposals/technology_education.md)
 
 [Back to the list of projects](../README.md)
