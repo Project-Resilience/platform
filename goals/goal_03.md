@@ -10,6 +10,6 @@ Goal 3: [Ensure healthy lives and promote well-being for all at all ages](https:
 
 ## Proposals
 
-- TODO
+- [Global Polio Eradication Initiative](../proposals/polio_eradication.md)
 
 [Back to the list of projects](../README.md)

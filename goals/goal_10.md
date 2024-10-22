@@ -10,6 +10,6 @@
 
 ## Proposals
 
-- TODO
+- [Global Polio Eradication Initiative](../proposals/polio_eradication.md)
 
 [Back to the list of projects](../README.md)

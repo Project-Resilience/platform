@@ -35,7 +35,6 @@ The situation decision makers are in when they have to make a decision can be de
 - Context 2
 - ...
 
-
 ### Actions
 
 <!-- Describe what the decision makers can do achieve their objectives -->
