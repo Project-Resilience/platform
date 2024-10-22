@@ -6,7 +6,7 @@ Goal 16: [Promote peaceful and inclusive societies for sustainable development, 
 
 ## Projects
 
-(no Project Resilience project yet)
+- [Non-pharmaceutical interventions for COVID-19](../projects/covid19.md)
 
 ## Proposals
 

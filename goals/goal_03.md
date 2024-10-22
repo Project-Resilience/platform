@@ -6,7 +6,7 @@ Goal 3: [Ensure healthy lives and promote well-being for all at all ages](https:
 
 ## Projects
 
-(no Project Resilience project yet)
+- [Non-pharmaceutical interventions for COVID-19](../projects/covid19.md)
 
 ## Proposals
 
