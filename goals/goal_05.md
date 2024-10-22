@@ -10,6 +10,6 @@ Goal 5: [Achieve gender equality and empower all women and girls](https://sdgs.u
 
 ## Proposals
 
-- TODO
+- [Women's Entrepreneurship Development Program](../proposals/women_entrepreneurship.md)
 
 [Back to the list of projects](../README.md)
