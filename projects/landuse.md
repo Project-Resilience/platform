@@ -5,7 +5,7 @@ Allocation of land for different uses significantly affects carbon balance and c
 
 <!-- Insert SDG Icons and links-->
 | [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)](../goals/goal_13.md) | [![Goal 15](../images/sdgs/E-WEB-Goal-15.png)](../goals/goal_15.md) |
-|--------------------------------------------------------------------|------------------------------------------------------------------|
+|---------------------------------------------------------------------|---------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -35,11 +35,11 @@ The situation decision makers are in when they have to make a decision can be de
     - Fields
         - Pasture
         - Range (unmanaged, such as savannah, grassland, etc.)
-    - Primary vegatation (note: after human intervention it is impossible for vegatation to become primary again)
+    - Primary vegetation (note: after human intervention it is impossible for vegetation to become primary again)
         - Forest
         - Non-forest
     
-    - Secondary vegatation
+    - Secondary vegetation
         - Forest
         - Non-forest
     - Urban
@@ -51,18 +51,18 @@ The situation decision makers are in when they have to make a decision can be de
 ### Actions
 
 <!-- Describe what the decision makers can do achieve their objectives -->
-Decision makers change the land use percentages in the following categories. Primary vegatation is prevented from being changed because the ultimate goal should be to preserve it. Urban land is unable to be changed because different sets of decision-makers are responsible for urban planning.:
+Decision makers change the land use percentages in the following categories. Primary vegetation is prevented from being changed because the ultimate goal should be to preserve it. Urban land is unable to be changed because different sets of decision-makers are responsible for urban planning.:
 - Crop diff
 - Field diff
     - Pasture diff
     - Range diff
-- Secondary vegatation diff
+- Secondary vegetation diff
     - Forest diff
     - Non-forest diff
 
 ### Outcomes
 
-<!-- Describe the metrics decision makers are trying to optimize, on which they are evaluatded -->
+<!-- Describe the metrics decision makers are trying to optimize, on which they are evaluated -->
 Decision makers are evaluated on the following outcomes:
 - Emissions from Land Use Change (ELUC) in tonnes of carbon per hectare (Minimize)
 - Change in land use percentages (Minimize)
@@ -75,7 +75,7 @@ The dataset of historical context/action/outcomes decisions is available here: [
 ## Code
 
 <!-- Point to the repo that contains the code -->
-The code for this project is available here: [Github](https://github.com/Project-Resilience/mvp)
+The code for this project is available here: [GitHub](https://github.com/Project-Resilience/mvp)
 
 ## References
 

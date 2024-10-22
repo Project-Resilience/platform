@@ -55,7 +55,7 @@ Decision makers can take the following decisions:
 
 ### Outcomes
 
-<!-- Describe the metrics decision makers are trying to optimize, on which they are evaluatded -->
+<!-- Describe the metrics decision makers are trying to optimize, on which they are evaluated -->
 Decision makers are evaluated on the following outcomes:
 
 1. **OutbreakRiskReduction**: Numerical (percentage reduction in outbreak risk) (Maximize)

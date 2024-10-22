@@ -46,7 +46,7 @@ Decision makers can take the following actions:
 
 ### Outcomes
 
-<!-- Describe the metrics decision makers are trying to optimize, on which they are evaluatded -->
+<!-- Describe the metrics decision makers are trying to optimize, on which they are evaluated -->
 Decision makers are evaluated on the following outcomes:
 
 - Outcome 1
