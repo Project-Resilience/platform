@@ -6,7 +6,7 @@ Goal 15: [Protect, restore and promote sustainable use of terrestrial ecosystems
 
 ## Projects
 
-(no Project Resilience project yet)
+- [Land Use Optimization](../projects/landuse.md)
 
 ## Proposals
 

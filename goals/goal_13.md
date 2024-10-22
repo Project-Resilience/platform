@@ -6,7 +6,8 @@
 
 ## Projects
 
-(no Project Resilience project yet)
+- [Energy policies optimization](../projects/energy_policies.md)
+- [Land Use Optimization](../projects/landuse.md)
 
 ## Proposals
 
