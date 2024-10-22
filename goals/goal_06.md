@@ -10,6 +10,6 @@ Goal 6: [Ensure availability and sustainable management of water and sanitation 
 
 ## Proposals
 
-- TODO
+- [Water Quality Monitoring and Management](../proposals/water_quality.md)
 
 [Back to the list of projects](../README.md)

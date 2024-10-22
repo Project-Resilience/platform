@@ -59,10 +59,10 @@ Decision makers can take the following actions:
 <!-- Describe the metrics decision makers are trying to optimize, on which they are evaluated -->
 Decision makers are evaluated on the following outcomes:
 
-1. **BusinessLaunchRate** (Numerical Integer): [0, 100] - Percentage of participants who launch a business by the end of the program.
-2. **BusinessSurvivalRate** (Numerical Integer): [0, 100] - Percentage of launched businesses that survive for at least 1 year.
-3. **RevenueIncrease** (Numerical Integer): [0, 100] - Percentage of participants with existing businesses that see a revenue increase.
-4. **Cost** (Numerical Integer): Calculated based on TrainingFormat, ProgramDuration, and FinancialSupport, with a base cost and adjustments for each parameter.
+1. **BusinessLaunchRate** (Numerical Integer): [0, 100] - Percentage of participants who launch a business by the end of the program. (Maximize)
+2. **BusinessSurvivalRate** (Numerical Integer): [0, 100] - Percentage of launched businesses that survive for at least 1 year. (Maximize)
+3. **RevenueIncrease** (Numerical Integer): [0, 100] - Percentage of participants with existing businesses that see a revenue increase. (Maximize)
+4. **Cost** (Numerical Integer): Calculated based on TrainingFormat, ProgramDuration, and FinancialSupport, with a base cost and adjustments for each parameter. (Minimize)
 
 ## Data
 
