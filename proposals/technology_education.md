@@ -4,8 +4,8 @@
 A project to optimize technology integration in education to improve learning outcomes and student engagement.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 04](../images/sdgs/E-WEB-Goal-04.png)](../goals/goal_04.md) | [![Goal 10](../images/sdgs/E-WEB-Goal-10.png)](../goals/goal_10.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 04](../images/sdgs/E-WEB-Goal-04.png)](../goals/goal_04) | [![Goal 10](../images/sdgs/E-WEB-Goal-10.png)](../goals/goal_10) |
+|------------------------------------------------------------------|------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -82,4 +82,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

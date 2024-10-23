@@ -6,8 +6,8 @@ This project aims to increase access to clean and sustainable energy sources, co
 sustainability, economic development, and improved quality of life in these regions.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 17](../images/sdgs/E-WEB-Goal-17.png)](../goals/goal_17.md) | [![Goal 07](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 17](../images/sdgs/E-WEB-Goal-17.png)](../goals/goal_17) | [![Goal 07](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07) |
+|------------------------------------------------------------------|------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -86,4 +86,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

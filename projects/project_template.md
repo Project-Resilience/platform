@@ -4,8 +4,8 @@
 Project description
 
 <!-- Insert SDG Icons and links-->
-| [![Goal X](../images/sdgs/E-WEB-Goal-0X.png)](../goals/goal_0X.md) | [![Goal X](../images/sdgs/E-WEB-Goal-X.png)](../goals/goal_X.md) |
-|--------------------------------------------------------------------|------------------------------------------------------------------|
+| [![Goal X](../images/sdgs/E-WEB-Goal-0X.png)](../goals/goal_0X) | [![Goal X](../images/sdgs/E-WEB-Goal-X.png)](../goals/goal_X) |
+|-----------------------------------------------------------------|---------------------------------------------------------------|
 
 ## Decision makers
 
@@ -75,4 +75,4 @@ The code for this project is available here: [Code](https://exmaple.com)
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

@@ -4,8 +4,8 @@
 Prevent potential water quality issues by helping decision makers proactively manage their interventions.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 06](../images/sdgs/E-WEB-Goal-06.png)](../goals/goal_06.md) |
-|---------------------------------------------------------------------|
+| [![Goal 06](../images/sdgs/E-WEB-Goal-06.png)](../goals/goal_06) |
+|------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -83,4 +83,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

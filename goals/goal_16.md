@@ -6,10 +6,10 @@ Goal 16: [Promote peaceful and inclusive societies for sustainable development, 
 
 ## Projects
 
-- [Non-pharmaceutical interventions for COVID-19](../projects/covid19.md)
+- [Non-pharmaceutical interventions for COVID-19](../projects/covid19)
 
 ## Proposals
 
-- [Community-Based Conflict Resolution and Peace Building Initiative](../proposals/conflict_resolution.md)
+- [Community-Based Conflict Resolution and Peace Building Initiative](../proposals/conflict_resolution)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

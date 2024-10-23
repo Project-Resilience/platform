@@ -2,8 +2,8 @@
 
 A project that villagers can implement to directly impact food security within their small community.
 
-| [![Goal 2](../images/sdgs/E-WEB-Goal-02.png)](../goals/goal_02.md) | [![Goal 4](../images/sdgs/E-WEB-Goal-04.png)](../goals/goal_04.md) |
-|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| [![Goal 2](../images/sdgs/E-WEB-Goal-02.png)](../goals/goal_02) | [![Goal 4](../images/sdgs/E-WEB-Goal-04.png)](../goals/goal_04) |
+|-----------------------------------------------------------------|-----------------------------------------------------------------|
 
 ## Decision makers
 
@@ -65,4 +65,4 @@ community through the establishment of a community garden coupled with an educat
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)
