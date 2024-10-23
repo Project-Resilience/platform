@@ -11,5 +11,6 @@
 ## Proposals
 
 - [Flood Defense Systems](../proposals/flood_defense.md)
+- [Adoption of Smart Grid Technology to Enhance Renewable Energy Integration](../proposals/smart_grid.md)
 
 [Back to the list of projects](../README.md)

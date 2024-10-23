@@ -11,5 +11,6 @@ Goal 7: [Ensure access to affordable, reliable, sustainable and modern energy fo
 ## Proposals
 
 - [Affordable and clean energy](../proposals/affordable_clean_energy.md)
+- [Adoption of Smart Grid Technology to Enhance Renewable Energy Integration](../proposals/smart_grid.md)
 
 [Back to the list of projects](../README.md)
