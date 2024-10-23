@@ -10,8 +10,8 @@
 
 ## Proposals
 
-- [Reduction of Global Food Waste](../proposals/food_waste.md)
-- [Waste Management and Recycling](../proposals/waste_management.md)
-- [Plastic Pollution Reduction](../proposals/plastic_pollution.md)
+- [Reduction of Global Food Waste](../proposals/food_waste)
+- [Waste Management and Recycling](../proposals/waste_management)
+- [Plastic Pollution Reduction](../proposals/plastic_pollution)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

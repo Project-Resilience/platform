@@ -5,8 +5,8 @@ This use case explores how adopting smart grid technology can facilitate the int
 into the power grid, thereby reducing reliance on fossil fuels and combating climate change.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)](../goals/goal_13.md) | [![Goal 09](../images/sdgs/E-WEB-Goal-09.png)](../goals/goal_09.md) | [![Goal 07](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)](../goals/goal_13) | [![Goal 09](../images/sdgs/E-WEB-Goal-09.png)](../goals/goal_09) | [![Goal 07](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07) |
+|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -85,4 +85,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

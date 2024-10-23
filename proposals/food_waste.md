@@ -6,8 +6,8 @@ chain, taking into account regional, economic, and waste management factors to e
 awareness, and promote sustainable practices.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 12](../images/sdgs/E-WEB-Goal-12.png)](../goals/goal_12.md) | [![Goal 11](../images/sdgs/E-WEB-Goal-11.png)](../goals/goal_11.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 12](../images/sdgs/E-WEB-Goal-12.png)](../goals/goal_12) | [![Goal 11](../images/sdgs/E-WEB-Goal-11.png)](../goals/goal_11) |
+|------------------------------------------------------------------|------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -86,4 +86,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

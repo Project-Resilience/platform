@@ -10,6 +10,6 @@ Goal 2: [End hunger, achieve food security and improved nutrition and promote su
 
 ## Proposals
 
-- [A Microfinance Program in Rural Areas](../proposals/community_garden.md)
+- [A Microfinance Program in Rural Areas](../proposals/community_garden)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

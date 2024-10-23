@@ -5,8 +5,8 @@ A project to help understanding the effectiveness of initiatives aimed at creati
 analyzing data on employment quality, worker satisfaction, and economic impact.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 08](../images/sdgs/E-WEB-Goal-08.png)](../goals/goal_08.md) |
-|---------------------------------------------------------------------|
+| [![Goal 08](../images/sdgs/E-WEB-Goal-08.png)](../goals/goal_08) |
+|------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -83,4 +83,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

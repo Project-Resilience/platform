@@ -6,12 +6,12 @@ Goal 7: [Ensure access to affordable, reliable, sustainable and modern energy fo
 
 ## Projects
 
-- [Energy policies optimization](../projects/energy_policies.md)
+- [Energy policies optimization](../projects/energy_policies)
 
 ## Proposals
 
-- [Affordable and clean energy](../proposals/affordable_clean_energy.md)
-- [Adoption of Smart Grid Technology to Enhance Renewable Energy Integration](../proposals/smart_grid.md)
-- [Solar Energy Technology Transfer](../proposals/technology_transfer.md)
+- [Affordable and clean energy](../proposals/affordable_clean_energy)
+- [Adoption of Smart Grid Technology to Enhance Renewable Energy Integration](../proposals/smart_grid)
+- [Solar Energy Technology Transfer](../proposals/technology_transfer)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

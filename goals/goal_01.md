@@ -10,6 +10,6 @@ Goal 1: [End poverty in all its forms everywhere](https://sdgs.un.org/goals/goal
 
 ## Proposals
 
-- [A Microfinance Program in Rural Areas](../proposals/microfinance.md)
+- [A Microfinance Program in Rural Areas](../proposals/microfinance)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

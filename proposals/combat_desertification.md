@@ -6,8 +6,8 @@ combat desertification. This system aims to assist policymakers and land manager
 best approaches to prevent or reverse desertification in vulnerable areas.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 15](../images/sdgs/E-WEB-Goal-15.png)](../goals/goal_15.md) |
-|---------------------------------------------------------------------|
+| [![Goal 15](../images/sdgs/E-WEB-Goal-15.png)](../goals/goal_15) |
+|------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -85,4 +85,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

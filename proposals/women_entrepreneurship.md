@@ -5,8 +5,8 @@ This program aims to support and empower women to start and grow their own busin
 and access to capital. It's designed to be implemented at a community or municipal level, targeting potential and existing female entrepreneurs.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 05](../images/sdgs/E-WEB-Goal-05.png)](../goals/goal_05.md) |
-|---------------------------------------------------------------------|
+| [![Goal 05](../images/sdgs/E-WEB-Goal-05.png)](../goals/goal_05) |
+|------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -84,4 +84,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

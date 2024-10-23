@@ -6,8 +6,8 @@ Plastic Pollution. This choice is due to the widespread recognition of plastic w
 to marine environments worldwide.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 14](../images/sdgs/E-WEB-Goal-14.png)](../goals/goal_14.md) | [![Goal 12](../images/sdgs/E-WEB-Goal-12.png)](../goals/goal_12.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 14](../images/sdgs/E-WEB-Goal-14.png)](../goals/goal_14) | [![Goal 12](../images/sdgs/E-WEB-Goal-12.png)](../goals/goal_12) |
+|------------------------------------------------------------------|------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -84,4 +84,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

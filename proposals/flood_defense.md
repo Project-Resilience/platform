@@ -4,8 +4,8 @@
 A project to reduce the risk of flooding in vulnerable areas by optimizing the design and implementation of flood defense systems.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 09](../images/sdgs/E-WEB-Goal-09.png)](../goals/goal_09.md) |
-|---------------------------------------------------------------------|
+| [![Goal 09](../images/sdgs/E-WEB-Goal-09.png)](../goals/goal_09) |
+|------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -84,4 +84,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)

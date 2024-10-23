@@ -6,8 +6,8 @@ fostering dialogue among diverse groups, and building trust in local governance 
 and adaptable to different local contexts, making it suitable for a wide range of communities.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 16](../images/sdgs/E-WEB-Goal-16.png)](../goals/goal_16.md) | [![Goal 11](../images/sdgs/E-WEB-Goal-11.png)](../goals/goal_11.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 16](../images/sdgs/E-WEB-Goal-16.png)](../goals/goal_16) | [![Goal 11](../images/sdgs/E-WEB-Goal-11.png)](../goals/goal_11) |
+|------------------------------------------------------------------|------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -86,4 +86,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README.md)
+[Back to the list of projects](../README)
