@@ -10,6 +10,6 @@ Goal 15: [Protect, restore and promote sustainable use of terrestrial ecosystems
 
 ## Proposals
 
-- TODO
+- [Combat Desertification Programs](../proposals/combat_desertification.md)
 
 [Back to the list of projects](../README.md)
