@@ -6,10 +6,10 @@ Goal 3: [Ensure healthy lives and promote well-being for all at all ages](https:
 
 ## Projects
 
-- [Non-pharmaceutical interventions for COVID-19](../projects/covid19)
+- [Non-pharmaceutical interventions for COVID-19](../projects/covid19.md)
 
 ## Proposals
 
-- [Global Polio Eradication Initiative](../proposals/polio_eradication)
+- [Global Polio Eradication Initiative](../proposals/polio_eradication.md)
 
-[Back to the list of projects](../README)
+[Back to the list of projects](../README.md)

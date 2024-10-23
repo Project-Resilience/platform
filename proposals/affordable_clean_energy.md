@@ -2,8 +2,8 @@
 
 A project that simulates realistic scenarios for implementing energy efficiency programs across various sectors.
 
-| [![Goal 7](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07) | [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)](../goals/goal_13) |
-|-----------------------------------------------------------------|------------------------------------------------------------------|
+| [![Goal 7](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07.md) | [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)](../goals/goal_13.md) |
+|--------------------------------------------------------------------|---------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -69,4 +69,4 @@ and needs of each sector.
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README)
+[Back to the list of projects](../README.md)

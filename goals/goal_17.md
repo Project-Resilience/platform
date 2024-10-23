@@ -10,6 +10,6 @@ Goal 17: [Strengthen the means of implementation and revitalize the Global Partn
 
 ## Proposals
 
-- [Solar Energy Technology Transfer](../proposals/technology_transfer)
+- [Solar Energy Technology Transfer](../proposals/technology_transfer.md)
 
-[Back to the list of projects](../README)
+[Back to the list of projects](../README.md)
