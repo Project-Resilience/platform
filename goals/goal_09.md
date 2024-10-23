@@ -10,6 +10,6 @@
 
 ## Proposals
 
-- TODO
+- [Flood Defense Systems](../proposals/flood_defense.md)
 
 [Back to the list of projects](../README.md)
