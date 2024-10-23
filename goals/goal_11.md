@@ -10,6 +10,6 @@
 
 ## Proposals
 
-- TODO
+- [Waste Management and Recycling](../proposals/waste_management.md)
 
 [Back to the list of projects](../README.md)
