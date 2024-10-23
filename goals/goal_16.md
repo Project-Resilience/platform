@@ -10,6 +10,6 @@ Goal 16: [Promote peaceful and inclusive societies for sustainable development, 
 
 ## Proposals
 
-- TODO
+- [Community-Based Conflict Resolution and Peace Building Initiative](../proposals/conflict_resolution.md)
 
 [Back to the list of projects](../README.md)

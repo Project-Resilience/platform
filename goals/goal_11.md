@@ -12,5 +12,6 @@
 
 - [Waste Management and Recycling](../proposals/waste_management.md)
 - [Reduction of Global Food Waste](../proposals/food_waste.md)
+- [Community-Based Conflict Resolution and Peace Building Initiative](../proposals/conflict_resolution.md)
 
 [Back to the list of projects](../README.md)
