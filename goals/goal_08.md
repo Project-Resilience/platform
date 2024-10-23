@@ -10,6 +10,6 @@ Goal 8: [Promote sustained, inclusive and sustainable economic growth, full and 
 
 ## Proposals
 
-- TODO
+- [Decent Work Initiatives](../proposals/decent_work.md)
 
 [Back to the list of projects](../README.md)
