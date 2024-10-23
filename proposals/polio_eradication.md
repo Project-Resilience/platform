@@ -5,8 +5,8 @@ Develop model to predict polio outbreak risks and recommend optimal vaccination 
 to maximize the impact of the Global Polio Eradication Initiative.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 03](../images/sdgs/E-WEB-Goal-03.png)](../goals/goal_03) | [![Goal 10](../images/sdgs/E-WEB-Goal-10.png)](../goals/goal_10) |
-|------------------------------------------------------------------|------------------------------------------------------------------|
+| [![Goal 03](../images/sdgs/E-WEB-Goal-03.png)](../goals/goal_03.md) | [![Goal 10](../images/sdgs/E-WEB-Goal-10.png)](../goals/goal_10.md) |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -80,4 +80,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README)
+[Back to the list of projects](../README.md)

@@ -6,11 +6,11 @@
 
 ## Projects
 
-- [Energy policies optimization](../projects/energy_policies)
-- [Land Use Optimization](../projects/landuse)
+- [Energy policies optimization](../projects/energy_policies.md)
+- [Land Use Optimization](../projects/landuse.md)
 
 ## Proposals
 
-- [Adoption of Smart Grid Technology to Enhance Renewable Energy Integration](../proposals/smart_grid)
+- [Adoption of Smart Grid Technology to Enhance Renewable Energy Integration](../proposals/smart_grid.md)
 
-[Back to the list of projects](../README)
+[Back to the list of projects](../README.md)

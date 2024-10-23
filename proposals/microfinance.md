@@ -4,8 +4,8 @@ This project would involve providing small loans to entrepreneurs in rural areas
 businesses, which in turn can help lift communities out of poverty. Microfinance has been recognized as an effective
 tool in empowering individuals, especially women, and fostering economic development at the grassroots level.
 
-| [![Goal 1](../images/sdgs/E-WEB-Goal-01.png)](../goals/goal_01) | [![Goal 5](../images/sdgs/E-WEB-Goal-05.png)](../goals/goal_05) |
-|-----------------------------------------------------------------|-----------------------------------------------------------------|
+| [![Goal 1](../images/sdgs/E-WEB-Goal-01.png)](../goals/goal_01.md) | [![Goal 5](../images/sdgs/E-WEB-Goal-05.png)](../goals/goal_05.md) |
+|--------------------------------------------------------------------|--------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -68,4 +68,4 @@ microfinance, contributing to broader socio-economic development.
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README)
+[Back to the list of projects](../README.md)

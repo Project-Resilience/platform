@@ -4,8 +4,8 @@
 A project aiming at reducing inequality within and among countries by developing education and skill development programs.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 10](../images/sdgs/E-WEB-Goal-10.png)](../goals/goal_10) | [![Goal 04](../images/sdgs/E-WEB-Goal-04.png)](../goals/goal_04) |
-|------------------------------------------------------------------|------------------------------------------------------------------|
+| [![Goal 10](../images/sdgs/E-WEB-Goal-10.png)](../goals/goal_10.md) | [![Goal 04](../images/sdgs/E-WEB-Goal-04.png)](../goals/goal_04.md) |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -89,4 +89,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README)
+[Back to the list of projects](../README.md)

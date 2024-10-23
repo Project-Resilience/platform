@@ -6,8 +6,8 @@ improve efficiency, reduce emissions, and increase recycling rates. This scenari
 attributes to design and implement effective waste management strategies.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 11](../images/sdgs/E-WEB-Goal-11.png)](../goals/goal_11) | [![Goal 12](../images/sdgs/E-WEB-Goal-12.png)](../goals/goal_12) |
-|------------------------------------------------------------------|------------------------------------------------------------------|
+| [![Goal 11](../images/sdgs/E-WEB-Goal-11.png)](../goals/goal_11.md) | [![Goal 12](../images/sdgs/E-WEB-Goal-12.png)](../goals/goal_12.md) |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -85,4 +85,4 @@ Decision makers are evaluated on the following outcomes:
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README)
+[Back to the list of projects](../README.md)

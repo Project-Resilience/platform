@@ -16,8 +16,8 @@ worldwide, to:
 - then optimize the NPI plan to minimize the number of cases while minimizing the economic impact of the pandemic.
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 03](../images/sdgs/E-WEB-Goal-03.png)](../goals/goal_03) | [![Goal 16](../images/sdgs/E-WEB-Goal-16.png)](../goals/goal_16) |
-|------------------------------------------------------------------|------------------------------------------------------------------|
+| [![Goal 03](../images/sdgs/E-WEB-Goal-03.png)](../goals/goal_03.md) | [![Goal 16](../images/sdgs/E-WEB-Goal-16.png)](../goals/goal_16.md) |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|
 
 ## Decision makers
 
@@ -102,4 +102,4 @@ The code for this project is available here: [covid-xprize](https://github.com/c
 <!-- Provide a link to a space for discussion or comments -->
 (no discussion yet)
 
-[Back to the list of projects](../README)
+[Back to the list of projects](../README.md)
