@@ -10,6 +10,6 @@ Goal 14: [Conserve and sustainably use the oceans, seas and marine resources for
 
 ## Proposals
 
-- TODO
+- [Plastic Pollution Reduction](../proposals/plastic_pollution.md)
 
 [Back to the list of projects](../README.md)
