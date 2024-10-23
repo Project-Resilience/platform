@@ -10,6 +10,6 @@
 
 ## Proposals
 
-- TODO
+- [Reduction of Global Food Waste](../proposals/food_waste.md)
 
 [Back to the list of projects](../README.md)
