@@ -1,8 +1,10 @@
 # Life on Land
 
-Goal 15: [Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss](https://sdgs.un.org/goals/goal15)
+[un_sdg_link]: https://sdgs.un.org/goals/goal15
 
-[![Goal 15](../images/sdgs/E-WEB-Goal-15.png)](https://sdgs.un.org/goals/goal15)
+Goal 15: [Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss][un_sdg_link]
+
+[<img src="../images/sdgs/E-WEB-Goal-15.png" alt="Goal 15 Life on Land" width="300">][un_sdg_link]
 
 ## Projects
 

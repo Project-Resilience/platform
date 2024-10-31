@@ -1,8 +1,10 @@
 # Responsible Consumption and Production
 
-## Goal 12: [Ensure sustainable consumption and production patterns](https://sdgs.un.org/goals/goal12)
+[un_sdg_link]: https://sdgs.un.org/goals/goal12
 
-[![Goal 12](../images/sdgs/E-WEB-Goal-12.png)](https://sdgs.un.org/goals/goal12)
+Goal 12: [Ensure sustainable consumption and production patterns][un_sdg_link]
+
+[<img src="../images/sdgs/E-WEB-Goal-12.png" alt="Goal 12 Responsible Consumption and Production" width="300">][un_sdg_link]
 
 ## Projects
 
