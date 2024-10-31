@@ -2,8 +2,14 @@
 
 A project that relies on a climate change simulator to optimize energy policies.
 
-| [![Goal 7](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07.md) | [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)](../goals/goal_13.md) |
-|--------------------------------------------------------------------|---------------------------------------------------------------------|
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_07_link]: ../goals/goal_07.md
+[goal_13_link]: ../goals/goal_13.md
+
+<!-- Insert SDG Icons and links-->
+| [![Goal 07](../images/sdgs/E-WEB-Goal-07.png)][goal_07_link] | [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)][goal_13_link] | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 

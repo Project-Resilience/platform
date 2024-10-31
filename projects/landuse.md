@@ -3,9 +3,14 @@
 <!-- Describe the project in one sentence, e.g. A project that... -->
 Allocation of land for different uses significantly affects carbon balance and climate change. A surrogate model can be learned from historical land-use changes and carbon emission simulations allows efficient evaluation of such allocations. An evolutionary search can then discover effective land-use policies for specific locations, trading off carbon impact and amount of change, offering a useful tool for land-use planning.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_13_link]: ../goals/goal_13.md
+[goal_15_link]: ../goals/goal_15.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)](../goals/goal_13.md) | [![Goal 15](../images/sdgs/E-WEB-Goal-15.png)](../goals/goal_15.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)][goal_13_link] | [![Goal 15](../images/sdgs/E-WEB-Goal-15.png)][goal_15_link] | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 
