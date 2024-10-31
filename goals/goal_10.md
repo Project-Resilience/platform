@@ -1,8 +1,10 @@
 # Reduced Inequalities
 
-## Goal 10: [Reduce inequality within and among countries](https://sdgs.un.org/goals/goal10)
+[un-sdg-link]: https://sdgs.un.org/goals/goal10
 
-[![Goal 10](../images/sdgs/E-WEB-Goal-10.png)](https://sdgs.un.org/goals/goal10)
+Goal 10: [Reduce inequality within and among countries][un-sdg-link]
+
+[<img src="../images/sdgs/E-WEB-Goal-10.png" alt="Goal 10 Reduced Inequalities" width="300">][un-sdg-link]
 
 ## Projects
 

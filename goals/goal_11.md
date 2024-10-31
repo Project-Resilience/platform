@@ -1,8 +1,10 @@
 # Sustainable Development
 
-## Goal 11: [Make cities and human settlements inclusive, safe, resilient, and sustainable](https://sdgs.un.org/goals/goal11)
+[un_sdg_link]: https://sdgs.un.org/goals/goal11
 
-[![Goal 11](../images/sdgs/E-WEB-Goal-11.png)](https://sdgs.un.org/goals/goal11)
+Goal 11: [Make cities and human settlements inclusive, safe, resilient, and sustainable][un_sdg_link]
+
+[<img src="../images/sdgs/E-WEB-Goal-11.png" alt="Goal 11 Sustainable Development" width="300">][un_sdg_link]
 
 ## Projects
 

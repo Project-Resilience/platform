@@ -1,8 +1,10 @@
 # Quality Education
 
-Goal 4: [Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all](https://sdgs.un.org/goals/goal4)
+[un_sdg_link]: https://sdgs.un.org/goals/goal4
 
-[![Goal 4](../images/sdgs/E-WEB-Goal-04.png)](https://sdgs.un.org/goals/goal4)
+Goal 4: [Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all][un_sdg_link]
+
+[<img src="../images/sdgs/E-WEB-Goal-04.png" alt="Goal 4 Quality Education" width="300">][un_sdg_link]
 
 ## Projects
 

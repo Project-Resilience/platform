@@ -1,8 +1,10 @@
 # Affordable and Clean Energy
 
-Goal 7: [Ensure access to affordable, reliable, sustainable and modern energy for all](https://sdgs.un.org/goals/goal7)
+[un_sdg_link]: https://sdgs.un.org/goals/goal7
 
-[![Goal 7](../images/sdgs/E-WEB-Goal-07.png)](https://sdgs.un.org/goals/goal7)
+Goal 7: [Ensure access to affordable, reliable, sustainable and modern energy for all][un_sdg_link]
+
+[<img src="../images/sdgs/E-WEB-Goal-07.png" alt="Goal 7 Affordable and Clean Energy" width="300">][un_sdg_link]
 
 ## Projects
 

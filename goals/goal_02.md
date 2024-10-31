@@ -1,8 +1,10 @@
 # Zero Hunger
 
-Goal 2: [End hunger, achieve food security and improved nutrition and promote sustainable agriculture](https://sdgs.un.org/goals/goal2)
+[un_sdg_link]: https://sdgs.un.org/goals/goal2
 
-[![Goal 2](../images/sdgs/E-WEB-Goal-02.png)](https://sdgs.un.org/goals/goal2)
+Goal 2: [End hunger, achieve food security and improved nutrition and promote sustainable agriculture][un_sdg_link]
+
+[<img src="../images/sdgs/E-WEB-Goal-02.png" alt="Goal 2 Zero Hunger" width="300">][un_sdg_link]
 
 ## Projects
 

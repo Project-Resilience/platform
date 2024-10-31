@@ -1,8 +1,10 @@
 # Life Below Water
 
-Goal 14: [Conserve and sustainably use the oceans, seas and marine resources for sustainable development](https://sdgs.un.org/goals/goal14)
+[un_sdg_link]: https://sdgs.un.org/goals/goal14
 
-[![Goal 14](../images/sdgs/E-WEB-Goal-14.png)](https://sdgs.un.org/goals/goal14)
+Goal 14: [Conserve and sustainably use the oceans, seas and marine resources for sustainable development][un_sdg_link]
+
+[<img src="../images/sdgs/E-WEB-Goal-14.png" alt="Goal 14 Life Below Water" width="300">][un_sdg_link]
 
 ## Projects
 

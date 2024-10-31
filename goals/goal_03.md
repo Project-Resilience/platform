@@ -1,8 +1,10 @@
 # Good Health and Well-being
 
-Goal 3: [Ensure healthy lives and promote well-being for all at all ages](https://sdgs.un.org/goals/goal3)
+[un_sdg_link]: https://sdgs.un.org/goals/goal3
 
-[![Goal 3](../images/sdgs/E-WEB-Goal-03.png)](https://sdgs.un.org/goals/goal3)
+Goal 3: [Ensure healthy lives and promote well-being for all at all ages][un_sdg_link]
+
+[<img src="../images/sdgs/E-WEB-Goal-03.png" alt="Goal 3 Good Health and Well-being" width="300">][un_sdg_link]
 
 ## Projects
 
