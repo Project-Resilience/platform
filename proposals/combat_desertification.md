@@ -5,9 +5,13 @@ We focus on developing a decision support system to predict and evaluate the eff
 combat desertification. This system aims to assist policymakers and land managers in making informed decisions on the
 best approaches to prevent or reverse desertification in vulnerable areas.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_15_link]: ../goals/goal_15.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 15](../images/sdgs/E-WEB-Goal-15.png)](../goals/goal_15.md) |
-|---------------------------------------------------------------------|
+| [![Goal 15](../images/sdgs/E-WEB-Goal-15.png)][goal_15_link] | ![](../images/sdgs/empty.png) | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|-------------------------------|-------------------------------|
 
 ## Decision makers
 

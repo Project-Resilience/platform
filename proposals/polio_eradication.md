@@ -4,9 +4,14 @@
 Develop model to predict polio outbreak risks and recommend optimal vaccination strategies, focusing on high-risk areas
 to maximize the impact of the Global Polio Eradication Initiative.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_03_link]: ../goals/goal_03.md
+[goal_10_link]: ../goals/goal_10.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 03](../images/sdgs/E-WEB-Goal-03.png)](../goals/goal_03.md) | [![Goal 10](../images/sdgs/E-WEB-Goal-10.png)](../goals/goal_10.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 03](../images/sdgs/E-WEB-Goal-03.png)][goal_03_link] | [![Goal 10](../images/sdgs/E-WEB-Goal-10.png)][goal_10_link] | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 

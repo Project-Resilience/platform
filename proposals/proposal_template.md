@@ -3,9 +3,14 @@
 <!-- Describe the project in one sentence, e.g. A project that... -->
 Project description
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_X1_link]: ../goals/goal_X1.md
+[goal_X2_link]: ../goals/goal_X2.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal X](../images/sdgs/E-WEB-Goal-0X.png)](../goals/goal_0X.md) | [![Goal X](../images/sdgs/E-WEB-Goal-X.png)](../goals/goal_X.md) |
-|--------------------------------------------------------------------|------------------------------------------------------------------|
+| [![Goal X1](../images/sdgs/empty.png)][goal_X1_link] | [![Goal X2](../images/sdgs/empty.png)][goal_X2_link] | ![](../images/sdgs/empty.png) |
+|------------------------------------------------------|------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 

@@ -15,9 +15,14 @@ worldwide, to:
 - first predict the number of cases according to NPI plans
 - then optimize the NPI plan to minimize the number of cases while minimizing the economic impact of the pandemic.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_03_link]: ../goals/goal_03.md
+[goal_16_link]: ../goals/goal_16.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 03](../images/sdgs/E-WEB-Goal-03.png)](../goals/goal_03.md) | [![Goal 16](../images/sdgs/E-WEB-Goal-16.png)](../goals/goal_16.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 03](../images/sdgs/E-WEB-Goal-03.png)][goal_03_link] | [![Goal 16](../images/sdgs/E-WEB-Goal-16.png)][goal_16_link] | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 

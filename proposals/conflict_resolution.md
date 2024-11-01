@@ -5,9 +5,14 @@ This project aims to promote peaceful and inclusive communities by enhancing loc
 fostering dialogue among diverse groups, and building trust in local governance structures. It's designed to be scalable
 and adaptable to different local contexts, making it suitable for a wide range of communities.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_16_link]: ../goals/goal_16.md
+[goal_11_link]: ../goals/goal_11.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 16](../images/sdgs/E-WEB-Goal-16.png)](../goals/goal_16.md) | [![Goal 11](../images/sdgs/E-WEB-Goal-11.png)](../goals/goal_11.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 16](../images/sdgs/E-WEB-Goal-16.png)][goal_16_link] | [![Goal 11](../images/sdgs/E-WEB-Goal-11.png)][goal_11_link] | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 

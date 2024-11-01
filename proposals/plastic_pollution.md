@@ -5,9 +5,14 @@ For a focused scope on Marine Pollution Reduction Strategies, we'll concentrate 
 Plastic Pollution. This choice is due to the widespread recognition of plastic waste as a significant and growing threat
 to marine environments worldwide.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_14_link]: ../goals/goal_14.md
+[goal_12_link]: ../goals/goal_12.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 14](../images/sdgs/E-WEB-Goal-14.png)](../goals/goal_14.md) | [![Goal 12](../images/sdgs/E-WEB-Goal-12.png)](../goals/goal_12.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 14](../images/sdgs/E-WEB-Goal-14.png)][goal_14_link] | [![Goal 12](../images/sdgs/E-WEB-Goal-12.png)][goal_12_link] | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 

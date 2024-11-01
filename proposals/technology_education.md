@@ -3,9 +3,14 @@
 <!-- Describe the project in one sentence, e.g. A project that... -->
 A project to optimize technology integration in education to improve learning outcomes and student engagement.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_04_link]: ../goals/goal_04.md
+[goal_10_link]: ../goals/goal_10.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 04](../images/sdgs/E-WEB-Goal-04.png)](../goals/goal_04.md) | [![Goal 10](../images/sdgs/E-WEB-Goal-10.png)](../goals/goal_10.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 04](../images/sdgs/E-WEB-Goal-04.png)][goal_04_link] | [![Goal 10](../images/sdgs/E-WEB-Goal-10.png)][goal_10_link] | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 

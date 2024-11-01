@@ -4,8 +4,14 @@ This project would involve providing small loans to entrepreneurs in rural areas
 businesses, which in turn can help lift communities out of poverty. Microfinance has been recognized as an effective
 tool in empowering individuals, especially women, and fostering economic development at the grassroots level.
 
-| [![Goal 1](../images/sdgs/E-WEB-Goal-01.png)](../goals/goal_01.md) | [![Goal 5](../images/sdgs/E-WEB-Goal-05.png)](../goals/goal_05.md) |
-|--------------------------------------------------------------------|--------------------------------------------------------------------|
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_01_link]: ../goals/goal_01.md
+[goal_05_link]: ../goals/goal_05.md
+
+<!-- Insert SDG Icons and links-->
+| [![Goal 01](../images/sdgs/E-WEB-Goal-01.png)][goal_01_link] | [![Goal 05](../images/sdgs/E-WEB-Goal-05.png)][goal_05_link] | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 
