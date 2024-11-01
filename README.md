@@ -4,10 +4,12 @@ Project Resilience's platform for decision makers, data scientists and the publi
 [Project Resilience](https://www.itu.int/en/ITU-T/extcoop/ai-data-commons/Pages/project-resilience.aspx),
 initiated under the Global Initiative on AI and Data Commons, is a collaborative effort
 to build a public AI utility that could inform and help address global decision-augmentation challenges.
-The project empowers a global community of innovators and thought leaders to enhance and use
+
+The project empowers a global community of innovators, thought leaders, and the public to enhance and use
 a shared collection of data and AI tools, improving preparedness, intervention, and response to environmental,
 health, information, or economic threats in our communities.
 It also supports broader efforts toward achieving the [Sustainable Development Goals (SDGs)](https://sdgs.un.org/).
+
 More info about Project Resilience [here](https://www.itu.int/en/ITU-T/extcoop/ai-data-commons/Pages/project-resilience.aspx).
 
 ## Projects
