@@ -4,9 +4,13 @@
 A project to help understanding the effectiveness of initiatives aimed at creating decent work conditions,
 analyzing data on employment quality, worker satisfaction, and economic impact.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_08_link]: ../goals/goal_08.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 08](../images/sdgs/E-WEB-Goal-08.png)](../goals/goal_08.md) |
-|---------------------------------------------------------------------|
+| [![Goal 08](../images/sdgs/E-WEB-Goal-08.png)][goal_08_link] | ![](../images/sdgs/empty.png) | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|-------------------------------|-------------------------------|
 
 ## Decision makers
 

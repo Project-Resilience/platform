@@ -3,9 +3,13 @@
 <!-- Describe the project in one sentence, e.g. A project that... -->
 A project to reduce the risk of flooding in vulnerable areas by optimizing the design and implementation of flood defense systems.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_09_link]: ../goals/goal_09.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 09](../images/sdgs/E-WEB-Goal-09.png)](../goals/goal_09.md) |
-|---------------------------------------------------------------------|
+| [![Goal 09](../images/sdgs/E-WEB-Goal-09.png)][goal_09_link] | ![](../images/sdgs/empty.png) | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|-------------------------------|-------------------------------|
 
 ## Decision makers
 

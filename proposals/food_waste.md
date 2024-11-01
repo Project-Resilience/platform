@@ -5,9 +5,14 @@ This project focuses on reducing global food waste by optimizing interventions a
 chain, taking into account regional, economic, and waste management factors to enhance efficiency, raise consumer
 awareness, and promote sustainable practices.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_12_link]: ../goals/goal_12.md
+[goal_11_link]: ../goals/goal_11.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 12](../images/sdgs/E-WEB-Goal-12.png)](../goals/goal_12.md) | [![Goal 11](../images/sdgs/E-WEB-Goal-11.png)](../goals/goal_11.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 12](../images/sdgs/E-WEB-Goal-12.png)][goal_12_link] | [![Goal 11](../images/sdgs/E-WEB-Goal-11.png)][goal_11_link] | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 

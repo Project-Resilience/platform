@@ -2,8 +2,14 @@
 
 A project that villagers can implement to directly impact food security within their small community.
 
-| [![Goal 2](../images/sdgs/E-WEB-Goal-02.png)](../goals/goal_02.md) | [![Goal 4](../images/sdgs/E-WEB-Goal-04.png)](../goals/goal_04.md) |
-|--------------------------------------------------------------------|--------------------------------------------------------------------|
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_02_link]: ../goals/goal_02.md
+[goal_04_link]: ../goals/goal_04.md
+
+<!-- Insert SDG Icons and links-->
+| [![Goal 02](../images/sdgs/E-WEB-Goal-02.png)][goal_02_link] | [![Goal 04](../images/sdgs/E-WEB-Goal-04.png)][goal_04_link] | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 

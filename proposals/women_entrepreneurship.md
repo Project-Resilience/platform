@@ -4,9 +4,13 @@
 This program aims to support and empower women to start and grow their own businesses through training, mentorship,
 and access to capital. It's designed to be implemented at a community or municipal level, targeting potential and existing female entrepreneurs.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_05_link]: ../goals/goal_05.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 05](../images/sdgs/E-WEB-Goal-05.png)](../goals/goal_05.md) |
-|---------------------------------------------------------------------|
+| [![Goal 05](../images/sdgs/E-WEB-Goal-05.png)][goal_05_link] | ![](../images/sdgs/empty.png) | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|-------------------------------|-------------------------------|
 
 ## Decision makers
 

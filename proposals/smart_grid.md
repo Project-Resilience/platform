@@ -4,9 +4,16 @@
 This use case explores how adopting smart grid technology can facilitate the integration of renewable energy sources
 into the power grid, thereby reducing reliance on fossil fuels and combating climate change.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_13_link]: ../goals/goal_13.md
+[goal_09_link]: ../goals/goal_09.md
+[goal_07_link]: ../goals/goal_07.md
+
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)](../goals/goal_13.md) | [![Goal 09](../images/sdgs/E-WEB-Goal-09.png)](../goals/goal_09.md) | [![Goal 07](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)][goal_13_link] | [![Goal 09](../images/sdgs/E-WEB-Goal-09.png)][goal_09_link] | [![Goal 07](../images/sdgs/E-WEB-Goal-07.png)][goal_07_link] |
+|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
 
 ## Decision makers
 

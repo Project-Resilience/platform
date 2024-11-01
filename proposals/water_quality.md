@@ -3,9 +3,13 @@
 <!-- Describe the project in one sentence, e.g. A project that... -->
 Prevent potential water quality issues by helping decision makers proactively manage their interventions.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_06_link]: ../goals/goal_06.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 06](../images/sdgs/E-WEB-Goal-06.png)](../goals/goal_06.md) |
-|---------------------------------------------------------------------|
+| [![Goal 06](../images/sdgs/E-WEB-Goal-06.png)][goal_06_link] | ![](../images/sdgs/empty.png) | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|-------------------------------|-------------------------------|
 
 ## Decision makers
 

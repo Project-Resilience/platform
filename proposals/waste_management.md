@@ -5,9 +5,14 @@ A Waste Management and Recycling use case for urban areas aiming at optimizing w
 improve efficiency, reduce emissions, and increase recycling rates. This scenario involves analyzing various context
 attributes to design and implement effective waste management strategies.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_11_link]: ../goals/goal_11.md
+[goal_12_link]: ../goals/goal_12.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 11](../images/sdgs/E-WEB-Goal-11.png)](../goals/goal_11.md) | [![Goal 12](../images/sdgs/E-WEB-Goal-12.png)](../goals/goal_12.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 11](../images/sdgs/E-WEB-Goal-11.png)][goal_11_link] | [![Goal 12](../images/sdgs/E-WEB-Goal-12.png)][goal_12_link] | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 

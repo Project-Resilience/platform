@@ -5,9 +5,14 @@ This project focuses on the transfer and implementation of Solar Energy Technolo
 This project aims to increase access to clean and sustainable energy sources, contributing to environmental
 sustainability, economic development, and improved quality of life in these regions.
 
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_17_link]: ../goals/goal_17.md
+[goal_07_link]: ../goals/goal_07.md
+
 <!-- Insert SDG Icons and links-->
-| [![Goal 17](../images/sdgs/E-WEB-Goal-17.png)](../goals/goal_17.md) | [![Goal 07](../images/sdgs/E-WEB-Goal-07.png)](../goals/goal_07.md) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [![Goal 17](../images/sdgs/E-WEB-Goal-17.png)][goal_17_link] | [![Goal 07](../images/sdgs/E-WEB-Goal-07.png)][goal_07_link] | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 
