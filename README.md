@@ -43,3 +43,28 @@ convert them to .html in GitHub pages -->
 | [![Goal 10](images/sdgs/E-WEB-Goal-10.png)][goal_10_link] | [![Goal 11](images/sdgs/E-WEB-Goal-11.png)][goal_11_link] | [![Goal 12](images/sdgs/E-WEB-Goal-12.png)][goal_12_link]              |
 | [![Goal 13](images/sdgs/E-WEB-Goal-13.png)][goal_13_link] | [![Goal 14](images/sdgs/E-WEB-Goal-14.png)][goal_14_link] | [![Goal 15](images/sdgs/E-WEB-Goal-15.png)][goal_15_link]              |
 | [![Goal 16](images/sdgs/E-WEB-Goal-16.png)][goal_16_link] | [![Goal 17](images/sdgs/E-WEB-Goal-17.png)][goal_17_link] | [![Goal ALL](images/sdgs/global-goals.png)](https://sdgs.un.org/goals) |
+
+## Contributing
+
+### Roles
+
+Users of the platform can have different profiles, such as:
+- **Decision Makers**: Users who make decisions based on the data and insights provided by the platform.
+- **Data Scientists**: Users who analyze data and create models to provide insights to decision makers.
+- **Public**: Users who are interested in learning about the projects and proposals on the platform, 
+and may provide feedback or suggestions.
+- **Moderators**: Users who review and approve proposals and projects submitted to the platform.
+
+### Data
+
+Each project relies on data. Please read the [data guidelines](data/data_guidelines.md) to learn how to contribute data.
+
+### Proposals
+
+Proposals can be submitted by creating a new file in the `proposals` directory and linking it to the
+corresponding SDGs. Please follow the [proposal template](proposals/proposal_template.md) when creating a new proposal.
+
+### Projects
+
+Projects can be submitted by creating a new file in the `projects` directory and linking it to the
+corresponding SDGs. Please follow the [project template](projects/project_template.md) when creating a new project.
