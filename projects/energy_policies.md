@@ -67,7 +67,7 @@ Decisions are evaluated using the [En-ROADS climate solutions simulator](https:/
 
 ## References
 
-- [En-ROADS climate solutions simulator](https://www.climateinteractive.org/en-roads/)
+- [En-ROADS Climate Solutions Simulator](https://www.climateinteractive.org/en-roads/)
 
 ## Discussion
 
