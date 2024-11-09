@@ -59,7 +59,7 @@ See the 'Show Actions' button in the [interactive application](https://climatech
 
 ## Data
 
-Decisions are evaluated using the [En-ROADS climate solutions simulator](https://www.climateinteractive.org/en-roads/).
+Decisions are evaluated using the [En-ROADS Climate Solutions Simulator](https://www.climateinteractive.org/en-roads/).
 
 ## Code
 
