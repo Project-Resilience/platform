@@ -1,4 +1,4 @@
-# Energy policies optimization
+# Energy Policies Optimization
 
 A project that relies on a climate change simulator to optimize energy policies.
 
@@ -23,7 +23,7 @@ To optimize energy policies to minimize temperature change, cost of energy, gove
 
 ## Interactive application
 
-The user interface is available here: [Energy policies optimization](https://climatechange.evolution.ml/)
+The user interface is available here: [Energy Policies Optimization](https://climatechange.evolution.ml/)
 
 ## Data attributes
 
@@ -63,7 +63,7 @@ Decisions are evaluated using the [En-ROADS Climate Solutions Simulator](https:/
 
 ## Code
 
-(code not available yet)
+The code for this project is available here: [GitHub](https://github.com/cognizant-ai-labs/en-roads-py)
 
 ## References
 
