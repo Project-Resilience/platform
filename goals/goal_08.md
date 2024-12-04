@@ -14,4 +14,10 @@ Goal 8: [Promote sustained, inclusive and sustainable economic growth, full and 
 
 - [Decent Work Initiatives](../proposals/decent_work.md)
 
+## Discussions
+
+[goal8_sdg_link]: https://github.com/Project-Resilience/platform/discussions/30
+
+- [Goal #8 Forum][goal8_sdg_link]
+
 [Back to the list of projects](../README.md)
