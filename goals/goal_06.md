@@ -14,4 +14,10 @@ Goal 6: [Ensure availability and sustainable management of water and sanitation 
 
 - [Water Quality Monitoring and Management](../proposals/water_quality.md)
 
+## Discussions
+
+[goal6_sdg_link]: https://github.com/Project-Resilience/platform/discussions/28
+
+- [Goal #6 Forum][goal6_sdg_link]
+
 [Back to the list of projects](../README.md)
