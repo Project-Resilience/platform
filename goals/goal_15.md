@@ -14,4 +14,11 @@ Goal 15: [Protect, restore and promote sustainable use of terrestrial ecosystems
 
 - [Combat Desertification Programs](../proposals/combat_desertification.md)
 
+## Discussions
+
+[goal15_sdg_link]: 
+https://github.com/Project-Resilience/platform/discussions/37
+
+- [Goal #15 Forum][goal15_sdg_link]
+
 [Back to the list of projects](../README.md)
