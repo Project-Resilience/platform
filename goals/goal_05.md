@@ -14,4 +14,10 @@ Goal 5: [Achieve gender equality and empower all women and girls][un_sdg_link]
 
 - [Women's Entrepreneurship Development Program](../proposals/women_entrepreneurship.md)
 
+## Discussions
+
+[goal5_sdg_link]: https://github.com/Project-Resilience/platform/discussions/27
+
+- [Goal #5 Forum][goal5_sdg_link]
+
 [Back to the list of projects](../README.md)
