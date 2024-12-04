@@ -16,4 +16,10 @@ Goal 7: [Ensure access to affordable, reliable, sustainable and modern energy fo
 - [Adoption of Smart Grid Technology to Enhance Renewable Energy Integration](../proposals/smart_grid.md)
 - [Solar Energy Technology Transfer](../proposals/technology_transfer.md)
 
+## Discussions
+
+[goal7_sdg_link]: https://github.com/Project-Resilience/platform/discussions/29
+
+- [Goal #7 Forum][goal7_sdg_link]
+
 [Back to the list of projects](../README.md)
