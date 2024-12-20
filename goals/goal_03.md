@@ -14,4 +14,10 @@ Goal 3: [Ensure healthy lives and promote well-being for all at all ages][un_sdg
 
 - [Global Polio Eradication Initiative](../proposals/polio_eradication.md)
 
+## Discussions
+
+[goal3_sdg_link]: https://github.com/Project-Resilience/platform/discussions/25
+
+- [Goal #3 Forum][goal3_sdg_link]
+
 [Back to the list of projects](../README.md)
