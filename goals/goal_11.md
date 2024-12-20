@@ -16,4 +16,11 @@ Goal 11: [Make cities and human settlements inclusive, safe, resilient, and sust
 - [Reduction of Global Food Waste](../proposals/food_waste.md)
 - [Community-Based Conflict Resolution and Peace Building Initiative](../proposals/conflict_resolution.md)
 
+## Discussions
+
+[goal11_sdg_link]: 
+https://github.com/Project-Resilience/platform/discussions/33
+
+- [Goal #11 Forum][goal11_sdg_link]
+
 [Back to the list of projects](../README.md)
