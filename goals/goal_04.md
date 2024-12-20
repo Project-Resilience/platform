@@ -15,4 +15,10 @@ Goal 4: [Ensure inclusive and equitable quality education and promote lifelong l
 - [Technology Integration in Education](../proposals/technology_education.md)
 - [Education and Skill Development Programs](../proposals/education_skill_dev.md)
 
+## Discussions
+
+[goal4_sdg_link]:https://github.com/Project-Resilience/platform/discussions/26
+
+- [Goal #4 Forum][goal4_sdg_link]
+
 [Back to the list of projects](../README.md)
