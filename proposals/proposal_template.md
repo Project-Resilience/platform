@@ -22,10 +22,18 @@ convert them to .html in GitHub pages -->
 <!-- Describe the objectives of the project in one sentence -->
 To optimize ...
 
-## Interactive application
+## Deliverables
 
-<!-- Provide a link to the interactive application -->
-(none)
+What will be built for this project?
+
+<!-- Describe the deliverables of the project. For instance: -->
+- [ ] User interface
+- [ ] APIs
+- [ ] Data
+- [ ] Benchmarks
+- [ ] Publications
+- [ ] Models
+- [ ] ...
 
 ## Data attributes
 

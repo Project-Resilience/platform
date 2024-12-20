@@ -24,9 +24,10 @@ convert them to .html in GitHub pages -->
 <!-- Describe the objectives of the project in one sentence -->
 To optimize ...
 
-## Interactive application
+## Deliverables
 
-<!-- Provide a link to the interactive application -->
+<!-- Provide links to the deliverables of the project -->
+<!-- For instance, a link to the interactive application -->
 The user interface is available here: [Project_Name](https://example.com/)
 
 ## Data attributes
