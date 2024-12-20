@@ -14,4 +14,10 @@ Goal 2: [End hunger, achieve food security and improved nutrition and promote su
 
 - [A Microfinance Program in Rural Areas](../proposals/community_garden.md)
 
+## Discussions
+
+[goal2_sdg_link]: https://github.com/Project-Resilience/platform/discussions/24
+
+Goal #2 Forum: [Forum][goal2_sdg_link]
+
 [Back to the list of projects](../README.md)
