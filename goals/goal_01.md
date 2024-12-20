@@ -14,4 +14,10 @@ Goal 1: [End poverty in all its forms everywhere][un_sdg_link]
 
 - [A Microfinance Program in Rural Areas](../proposals/microfinance.md)
 
+## Discussions
+
+[goal1_sdg_link]: https://github.com/Project-Resilience/platform/discussions/23
+
+Goal #1 Forum: [Forum][goal1_sdg_link]
+
 [Back to the list of projects](../README.md)
