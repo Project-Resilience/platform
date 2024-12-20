@@ -14,4 +14,11 @@ Goal 17: [Strengthen the means of implementation and revitalize the Global Partn
 
 - [Solar Energy Technology Transfer](../proposals/technology_transfer.md)
 
+## Discussions
+
+[goal17_sdg_link]: 
+https://github.com/Project-Resilience/platform/discussions/39
+
+- [Goal #17 Forum][goal17_sdg_link]
+
 [Back to the list of projects](../README.md)
