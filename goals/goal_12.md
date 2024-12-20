@@ -16,4 +16,12 @@ Goal 12: [Ensure sustainable consumption and production patterns][un_sdg_link]
 - [Waste Management and Recycling](../proposals/waste_management.md)
 - [Plastic Pollution Reduction](../proposals/plastic_pollution.md)
 
+## Discussions
+
+[goal12_sdg_link]: 
+https://github.com/Project-Resilience/platform/discussions/34
+
+- [Goal #12 Forum][goal12_sdg_link]
+
+
 [Back to the list of projects](../README.md)

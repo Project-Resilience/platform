@@ -14,4 +14,11 @@ Goal 16: [Promote peaceful and inclusive societies for sustainable development, 
 
 - [Community-Based Conflict Resolution and Peace Building Initiative](../proposals/conflict_resolution.md)
 
+## Discussions
+
+[goal16_sdg_link]: 
+https://github.com/Project-Resilience/platform/discussions/38
+
+- [Goal #16 Forum][goal16_sdg_link]
+
 [Back to the list of projects](../README.md)

@@ -15,4 +15,11 @@ Goal 9: [Build resilient infrastructure, promote inclusive and sustainable indus
 - [Flood Defense Systems](../proposals/flood_defense.md)
 - [Adoption of Smart Grid Technology to Enhance Renewable Energy Integration](../proposals/smart_grid.md)
 
+## Discussions
+
+[goal9_sdg_link]: 
+https://github.com/Project-Resilience/platform/discussions/31
+
+- [Goal #9 Forum][goal9_sdg_link]
+
 [Back to the list of projects](../README.md)

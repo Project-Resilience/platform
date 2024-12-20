@@ -15,4 +15,11 @@ Goal 13: [Take urgent action to combat climate change and its impacts][un_sdg_li
 
 - [Adoption of Smart Grid Technology to Enhance Renewable Energy Integration](../proposals/smart_grid.md)
 
+## Discussions
+
+[goal13_sdg_link]: 
+https://github.com/Project-Resilience/platform/discussions/35
+
+- [Goal #13 Forum][goal13_sdg_link]
+
 [Back to the list of projects](../README.md)

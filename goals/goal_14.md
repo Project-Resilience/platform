@@ -14,4 +14,11 @@ Goal 14: [Conserve and sustainably use the oceans, seas and marine resources for
 
 - [Plastic Pollution Reduction](../proposals/plastic_pollution.md)
 
+## Discussions
+
+[goal14_sdg_link]: 
+https://github.com/Project-Resilience/platform/discussions/36
+
+- [Goal #14 Forum][goal14_sdg_link]
+
 [Back to the list of projects](../README.md)
