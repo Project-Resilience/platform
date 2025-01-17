@@ -12,6 +12,16 @@ It also supports broader efforts toward achieving the [Sustainable Development G
 
 More info about Project Resilience [here](https://www.itu.int/en/ITU-T/extcoop/ai-data-commons/Pages/project-resilience.aspx).
 
+## Volunteers
+
+If you would like to get involved:
+- Browse through the SDGs below
+- Find a project that interests you
+- Or find a proposal that interests you
+- Or look at the discussions for this SDG and brainstorm with the community
+
+Find us on Slack at: [bit.ly/project-resilience](http://bit.ly/project-resilience).
+
 ## Projects
 
 Select a Sustainable Development Goal (SDG) from the list below to view projects for that goal.
