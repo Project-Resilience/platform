@@ -74,6 +74,18 @@ Decision makers are evaluated on the following outcomes:
 <!-- Point to the repo that contains the code -->
 (none)
 
+## Needs
+<!-- What kind of help is currently needed for this project? -->
+
+List of needs:
+- Contacts with decision makers
+- UI/UX experts
+- Data scientists
+- Data
+- Money
+- Compute
+- ...
+
 ## References
 
 <!-- Provide a list of references or other resources used in the project -->

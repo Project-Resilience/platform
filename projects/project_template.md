@@ -69,6 +69,18 @@ The dataset of historical context/action/outcomes decisions is available here: [
 <!-- Point to the repo that contains the code -->
 The code for this project is available here: [Code](https://exmaple.com)
 
+## Needs
+<!-- What kind of help is currently needed for this project? -->
+
+List of needs:
+- Contacts with decision makers
+- UI/UX experts
+- Data scientists
+- Data
+- Money
+- Compute
+- ...
+
 ## References
 
 <!-- Provide a list of references or other resources used in the project -->
