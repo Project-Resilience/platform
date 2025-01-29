@@ -60,7 +60,8 @@ convert them to .html in GitHub pages -->
 
 Users of the platform can have different profiles, such as:
 - **Decision Makers**: Users who make decisions based on the data and insights provided by the platform.
-- **Data Scientists**: Users who analyze data and create models to provide insights to decision makers.
+- **Technical contributors**: Users who gather data, analyze data, train models, create UIs, deploy applications
+to provide insights to decision makers.
 - **Public**: Users who are interested in learning about the projects and proposals on the platform, 
 and may provide feedback or suggestions.
 - **Moderators**: Users who review and approve proposals and projects submitted to the platform.
