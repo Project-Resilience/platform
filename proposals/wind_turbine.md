@@ -1,7 +1,7 @@
-# Project title
+# Wind Turbine Type Recommendation
 
 <!-- Describe the project in one sentence, e.g. A project that... -->
-This project aims to develop an application that supports sustainable energy decisions by helping decision-makers compare various wind turbine models based on cost, energy production, and noise pollution to optimize clean energy adoption.
+This project aims to develop an application that supports sustainable energy decisions by helping decision-makers choose between various wind turbine models based on cost, energy production, and noise pollution to optimize clean energy adoption.
 
 <!-- Note: using reference-style links to let Jekyll's relative links
 convert them to .html in GitHub pages -->
@@ -18,7 +18,7 @@ convert them to .html in GitHub pages -->
 - Wind farm developers
 - Renewable energy investors
 - Policy makers
-- environmental regulators
+- Environmental regulators
 
 ## Objectives
 
@@ -84,9 +84,10 @@ https://energy.usgs.gov/uswtdb/
 
 List of needs:
 - **Contacts with decision-makers** in wind energy development 
-- **UI/UX experts** to design an intuitive comparison tool 
-- **Data scientists** to analyze turbine performance and cost-effectiveness
-- **Funding** for development and testing  
+- **UI/UX experts** to design an intuitive tool to recommend wind turbines 
+- **Data scientists** to analyze turbine performance and build predictive and prescriptive models
+- **Funding** for development and testing
+- **QA** for testing the tool  
 
 
 ## References
