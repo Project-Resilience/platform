@@ -1,5 +1,3 @@
-*Draft Project Proposal*
-
 # The Effects of AI on Human Learning
 
 ## Decision Makers
