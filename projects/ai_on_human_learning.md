@@ -1,5 +1,16 @@
 # The Effects of AI on Human Learning
 
+Optimize AI Impacts on Human Learning an Development
+
+<!-- Note: using reference-style links to let Jekyll's relative links
+convert them to .html in GitHub pages -->
+[goal_04_link]: ../goals/goal_04.md
+
+<!-- Insert SDG Icons and links-->
+| [![Goal 04](../images/sdgs/E-WEB-Goal-04.png)][goal_04_link] | ![](../images/sdgs/empty.png) | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
+
+
 ## Decision Makers
 - School Boards
 - Parents

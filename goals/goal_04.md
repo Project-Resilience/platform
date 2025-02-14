@@ -8,7 +8,7 @@ Goal 4: [Ensure inclusive and equitable quality education and promote lifelong l
 
 ## Projects
 
-(no Project Resilience project yet)
+- [The Effects of AI on Human Learning](../projects/ai_on_human_learning.md)
 
 ## Proposals
 
