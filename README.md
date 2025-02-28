@@ -22,6 +22,10 @@ If you would like to get involved:
 
 Find us on Slack at: [bit.ly/project-resilience](http://bit.ly/project-resilience).
 
+## How to navigate the platform
+
+[![Project Resilience Tutorial](images/project_resilience_tutorial.png)](https://youtu.be/b2_PvxPSif0 "Project Resilience Tutorial")
+
 ## Projects
 
 Select a Sustainable Development Goal (SDG) from the list below to view projects for that goal.
