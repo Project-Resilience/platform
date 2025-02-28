@@ -14,6 +14,7 @@ Goal 13: [Take urgent action to combat climate change and its impacts][un_sdg_li
 ## Proposals
 
 - [Adoption of Smart Grid Technology to Enhance Renewable Energy Integration](../proposals/smart_grid.md)
+- [Wind Turbine Type Recommendation](../proposals/wind_turbine.md)
 
 ## Discussions
 
