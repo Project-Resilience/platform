@@ -24,7 +24,7 @@ Find us on Slack at: [bit.ly/project-resilience](http://bit.ly/project-resilienc
 
 ## How to navigate the platform
 
-[![Project Resilience Tutorial](images/project_resilience_tutorial.png)](https://youtu.be/b2_PvxPSif0 "Project Resilience Tutorial")
+[![Project Resilience Tutorial](images/project_resilience_thumb.png)](https://youtu.be/b2_PvxPSif0 "Project Resilience Tutorial")
 
 ## Projects
 
