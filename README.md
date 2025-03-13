@@ -12,6 +12,8 @@ It also supports broader efforts toward achieving the [Sustainable Development G
 
 More info about Project Resilience [here](https://www.itu.int/en/ITU-T/extcoop/ai-data-commons/Pages/project-resilience.aspx).
 
+Click [here](https://huggingface.co/spaces/projectresilience/projectresilience-assistant) to chat with Project Resilience Assistant to know more about it.
+
 ## Volunteers
 
 If you would like to get involved:
