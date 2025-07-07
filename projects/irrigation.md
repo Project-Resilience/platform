@@ -80,6 +80,7 @@ List of needs:
 ## References
 
 <!-- Provide a list of references or other resources used in the project -->
+- [Irrigation Strategy App](https://irrigation-strategy.streamlit.app/)
 - [AquaCrop](https://www.fao.org/aquacrop/en/)
 - [AquaCropOS](https://github.com/aquacropos/aquacrop)
 - [Code](https://github.com/danyoungday/praise)
