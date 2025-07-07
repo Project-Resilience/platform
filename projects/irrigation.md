@@ -67,7 +67,7 @@ The Python implementation used in this project is found here: [AquaCropOS](https
 ## Code
 
 <!-- Point to the repo that contains the code -->
-The code for this project is available here: [Code](https://github.com/danyoungday/praise)
+The code for this project is available here: [Code](https://github.com/Project-Resilience/praise)
 
 ## Needs
 <!-- What kind of help is currently needed for this project? -->
@@ -83,7 +83,7 @@ List of needs:
 - [Irrigation Strategy App](https://irrigation-strategy.streamlit.app/)
 - [AquaCrop](https://www.fao.org/aquacrop/en/)
 - [AquaCropOS](https://github.com/aquacropos/aquacrop)
-- [Code](https://github.com/danyoungday/praise)
+- [Code](https://github.com/Project-Resilience/praise)
 
 ## Discussion
 
