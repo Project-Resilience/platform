@@ -1,4 +1,4 @@
-# Project title
+# Irrigation Strategy Optimization
 
 <!-- Describe the project in one sentence, e.g. A project that... -->
 A project that uses the AquaCrop crop growth simulator to optimize irrigation and field strategies.
