@@ -8,7 +8,7 @@ convert them to .html in GitHub pages -->
 [goal_02_link]: ../goals/goal_02.md
 
 <!-- Insert SDG Icons and links-->
-| [![Goal 02](../images/sdgs/E-WEB-Goal-02.png)][goal_04_link] | ![](../images/sdgs/empty.png) | ![](../images/sdgs/empty.png) |
+| [![Goal 02](../images/sdgs/E-WEB-Goal-02.png)][goal_02_link] | ![](../images/sdgs/empty.png) | ![](../images/sdgs/empty.png) |
 |--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
