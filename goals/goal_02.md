@@ -8,7 +8,7 @@ Goal 2: [End hunger, achieve food security and improved nutrition and promote su
 
 ## Projects
 
-(no Project Resilience project yet)
+- [Irrigation Strategy Optimization](../projects/irrigation.md)
 
 ## Proposals
 
