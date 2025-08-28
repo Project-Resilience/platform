@@ -1,5 +1,4 @@
 # Project title
-
 <!-- Describe the project in one sentence, e.g. A project that... -->
 Project description
 
