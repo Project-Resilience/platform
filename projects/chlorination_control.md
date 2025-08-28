@@ -5,12 +5,12 @@ This project focuses on evolving an agentic system that can reliably control the
 
 <!-- Note: using reference-style links to let Jekyll's relative links
 convert them to .html in GitHub pages -->
-[goal_X1_link]: ../goals/goal_06.md
-[goal_X2_link]: ../goals/goal_11.md
+[goal_06_link]: ../goals/goal_06.md
+[goal_11_link]: ../goals/goal_11.md
 
 <!-- Insert SDG Icons and links-->
-| [![Goal X1](../images/sdgs/E-WEB-Goal-06.png)][goal_X1_link] | [![Goal X2](../images/sdgs/E-WEB-Goal-11.png)][goal_X2_link] | ![](../images/sdgs/empty.png) |
-|------------------------------------------------------|------------------------------------------------------|-------------------------------|
+| [![Goal 06](../images/sdgs/E-WEB-Goal-06.png)][goal_06_link] | [![Goal 11](../images/sdgs/E-WEB-Goal-11.png)][goal_11_link] | ![](../images/sdgs/empty.png) |
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 
