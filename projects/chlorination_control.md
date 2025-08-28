@@ -21,14 +21,14 @@ convert them to .html in GitHub pages -->
 
 ## Objectives
 <!-- Describe the objectives of the project in one sentence -->
-To optimize the real-time chlorination levels in a water network to, therefore, minimize chlorine Cl bound violations, minimize amount of Cl injected, minimize infection risk, and maximize the fairness and smoothness of Cl injections at varying locations in the network.
+To optimize the real-time chlorination levels in a water network to, therefore, minimize chlorine (Cl) bound violations, minimize amount of Cl injected, minimize infection risk, and maximize the fairness and smoothness of Cl injections at varying locations in the network.
 
 ## Deliverables
 
 <!-- Provide links to the deliverables of the project -->
 <!-- For instance, a link to the interactive application -->
 - A thorough paper on arXiv is in progress. For now we do have a short report on [arXiv](https://arxiv.org/abs/2508.19173)
-- A user interface is also in progress.
+- A user interface is also in progress. It'll likely be game-like wherein the user is able to control the Cl injections given timestep-wise data against the evolved agent.
 
 ## Data attributes
 
