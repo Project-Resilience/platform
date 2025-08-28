@@ -8,7 +8,7 @@ Goal 6: [Ensure availability and sustainable management of water and sanitation 
 
 ## Projects
 
-(no Project Resilience project yet)
+- [Water System Chlorination Optimization](../projects/chlorination_control.md)
 
 ## Proposals
 

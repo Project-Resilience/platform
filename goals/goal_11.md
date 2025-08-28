@@ -8,7 +8,7 @@ Goal 11: [Make cities and human settlements inclusive, safe, resilient, and sust
 
 ## Projects
 
-(no Project Resilience project yet)
+- [Water System Chlorination Optimization](../projects/chlorination_control.md)
 
 ## Proposals
 
