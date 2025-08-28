@@ -27,7 +27,8 @@ To optimize the real-time chlorination levels in a water network to, therefore, 
 
 <!-- Provide links to the deliverables of the project -->
 <!-- For instance, a link to the interactive application -->
-A user interface and a thorough paper on arXiv are in progress.
+- A thorough paper on arXiv is in progress. For now we do have a short report on [arXiv](https://arxiv.org/abs/2508.19173)
+- A user interface is also in progress.
 
 ## Data attributes
 
