@@ -22,7 +22,7 @@ If you would like to get involved:
 - Or find a proposal that interests you
 - Or look at the discussions for this SDG and brainstorm with the community
 
-You can also [find us on Slack](https://join.slack.com/t/projectresiliencehq/shared_invite/zt-3ecvqw99z-nXuKXrpnOBgURGddz8r2xw).
+You can also [find us on Slack](https://join.slack.com/t/projectresiliencehq/shared_invite/zt-3imc82ytt-NU6JK~z2XYSy3VuUawSmpg).
 
 ## How to navigate the platform
 
