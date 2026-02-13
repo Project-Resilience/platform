@@ -43,7 +43,7 @@ The situation decision makers are in when they have to make a decision can be de
 
 ### Actions
 
-<!-- Describe what the decision makers can do achieve their objectives -->
+<!-- Describe what the decision makers can do to achieve their objectives -->
 Decision makers can take the following actions:
 
 - Action 1
@@ -61,7 +61,7 @@ Decision makers are evaluated on the following outcomes:
 
 ## Data
 
-<!-- Describe the data that is used to evaluate the decisions -->
+<!-- Describe the data used to evaluate the decisions -->
 The dataset of historical context/action/outcomes decisions is available here: [Data](https://example.com/)
 
 ## Code

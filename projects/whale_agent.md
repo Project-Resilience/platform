@@ -31,12 +31,25 @@ Reduce the number of whale strikes globally.
 <!-- For instance, a link to the interactive application -->
 - A dynamic risk map highlighting potential vessel–whale interaction zones across wide ocean regions, updated as environmental and traffic conditions change
 - Dynamic, seasonal shipping routes that are optimized for reducing whale strikes
-- Timely warnings and recommendations intended to support proactive mitigation actions such as speed reduction, course adjustment, or increased situational awareness in higher-risk areas.
+- Timely warnings and recommendations, intended to support proactive mitigation actions such as speed reduction, course adjustment, or increased situational awareness in higher-risk areas.
+
+### User interface
 
 The user interface could take the form of a web application or a mobile app.
 If possible, the whale collision risk and avoidance recommendations could be
 integrated into existing shipping management systems, used directly by planners.
 Even better, it might be possible to integrate the recommendations into ship navigation systems, providing real-time guidance to captains and crews.
+
+### Decision-making example
+
+Each type of ship has its own set of constraints. Container ship captains,
+for instance, have to be at the right stop at the right time. If they
+already know they'll be late, then their main objective could switch
+from rushing to be on time to reducing whale collision risk and saving
+fuel. The recommendations can then become things like "reduce speed to x
+and navigate further north to avoid whale strikes and save fuel".
+In the end captains choose the trade-offs, but now they have tools to weight
+their options and evaluate them to make better informed decisions.
 
 ## Data attributes
 
@@ -45,6 +58,7 @@ Even better, it might be possible to integrate the recommendations into ship nav
 <!-- Describe the situation decision makers are in when then have to make a decision -->
 The situation decision makers are in when they have to make a decision can be described by the following attributes:
 
+- Type of ship: container, tanker, cruise ship, etc.
 - Ship location
 - Collision risk map
 - Vessel traffic
@@ -60,13 +74,14 @@ The situation decision makers are in when they have to make a decision can be de
 
 ### Actions
 
-<!-- Describe what the decision makers can do achieve their objectives -->
+<!-- Describe what the decision makers can do to achieve their objectives -->
 Decision makers can take the following actions:
 
 - Dynamically adjust global shipping routes
-- Reduce speed when entering a high risk zone
+- Suggest protection areas for whales, maybe dynamically
+- Reduce speed when entering a high-risk zone
 - Adjust ship's course
-- Increase situational awareness when entering a high risk zone
+- Increase situational awareness when entering a high-risk zone
 
 ### Outcomes
 
@@ -110,10 +125,11 @@ List of needs:
 - [Mapping Whales from Space](https://space-solutions.airbus.com/resources/case-studies/pleiades-neo/mapping-whales-from-space/)
 - [Krill from space](https://www.wwf.org.uk/press-release/krill-space-project-takes)
 - [Whale Safe Tool](https://whalesafe.com/whale-safe-tool/)
+- [Whale Seeker](https://www.whaleseeker.com/)
 
 ## Discussion
 
 <!-- Provide a link to a space for discussion or comments -->
-See discussions in [SDG 14](https://github.com/Project-Resilience/platform/discussions/36).
+See the [Whale Agent](https://github.com/Project-Resilience/platform/discussions/91) discussion space.
 
 [Back to the list of projects](../README.md)
