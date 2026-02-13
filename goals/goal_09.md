@@ -8,7 +8,7 @@ Goal 9: [Build resilient infrastructure, promote inclusive and sustainable indus
 
 ## Projects
 
-(no Project Resilience project yet)
+- [Whale agent](../projects/whale_agent.md)
 
 ## Proposals
 

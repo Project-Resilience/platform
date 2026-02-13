@@ -8,7 +8,7 @@ Goal 14: [Conserve and sustainably use the oceans, seas and marine resources for
 
 ## Projects
 
-(no Project Resilience project yet)
+- [Whale agent](../projects/whale_agent.md)
 
 ## Proposals
 
