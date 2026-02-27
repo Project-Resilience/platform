@@ -13,6 +13,7 @@ Goal 5: [Achieve gender equality and empower all women and girls][un_sdg_link]
 ## Proposals
 
 - [Women's Entrepreneurship Development Program](../proposals/women_entrepreneurship.md)
+- [Reducing Investor Gender Bias in Startup Funding](../proposals/investor_gender_bias.md)
 
 ## Discussions
 
