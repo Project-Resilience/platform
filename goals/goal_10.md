@@ -15,6 +15,7 @@ Goal 10: [Reduce inequality within and among countries][un-sdg-link]
 - [Global Polio Eradication Initiative](../proposals/polio_eradication.md)
 - [Technology Integration in Education](../proposals/technology_education.md)
 - [Education and Skill Development Programs](../proposals/education_skill_dev.md)
+- [Reducing Investor Gender Bias in Startup Funding](../proposals/investor_gender_bias.md)
 
 ## Discussions
 
