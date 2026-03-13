@@ -49,7 +49,7 @@ The situation decision makers are in when they have to make a decision can be de
 
 ### Actions
 
-<!-- Describe what the decision makers can do achieve their objectives -->
+<!-- Describe what the decision makers can do to achieve their objectives -->
 Decision makers can take the following actions:
 
 1. **TechInvestmentAmount** (Numerical integer): Amount of money invested in technology in USD.
