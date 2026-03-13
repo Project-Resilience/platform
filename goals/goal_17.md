@@ -13,6 +13,7 @@ Goal 17: [Strengthen the means of implementation and revitalize the Global Partn
 ## Proposals
 
 - [Solar Energy Technology Transfer](../proposals/technology_transfer.md)
+- [PROJECT ISONOMIA - Ensuring Equitable Global AI Access](../proposals/equitable_ai_access.md)
 
 ## Discussions
 
