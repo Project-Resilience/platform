@@ -123,6 +123,7 @@ List of needs:
 ## Discussion
 
 <!-- Provide a link to a space for discussion or comments -->
-[GitHub Discussion #32](https://github.com/Project-Resilience/platform/discussions/32#discussioncomment-15828390)
+- [Discussions about Goal 5: Gender Equality](https://github.com/Project-Resilience/platform/discussions/27)
+- [Discussions about Goal 10: Reduce inequality within and among countries](https://github.com/Project-Resilience/platform/discussions/32#discussioncomment-15828390)
 
 [Back to the list of projects](../README.md)
