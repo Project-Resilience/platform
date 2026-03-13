@@ -41,7 +41,7 @@ To optimize the real-time chlorination levels in a water network to, therefore, 
 
 ### Actions
 
-<!-- Describe what the decision makers can do achieve their objectives -->
+<!-- Describe what the decision makers can do to achieve their objectives -->
 Decision makers will control the amount of Cl injected at varying points in the network after assessing the context at each timestep.
 
 ### Outcomes
@@ -79,7 +79,7 @@ List of needs:
 
 <!-- Provide a list of references or other resources used in the project -->
 - [EPyT-Control](https://pypi.org/project/epyt-control/)
-- [1st AI for Drinking Water Chlroination Challenge](https://github.com/rivmons/aichlor-ijcai25/tree/main)
+- [1st AI for Drinking Water Chlorination Challenge](https://github.com/rivmons/aichlor-ijcai25/tree/main)
 
 
 ## Discussion

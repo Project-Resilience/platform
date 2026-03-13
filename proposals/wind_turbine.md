@@ -10,7 +10,7 @@ convert them to .html in GitHub pages -->
 
 <!-- Insert SDG Icons and links-->
 | [![Goal 07](../images/sdgs/E-WEB-Goal-07.png)][goal_07_link] | [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)][goal_13_link] | ![](../images/sdgs/empty.png) |
-|------------------------------------------------------|------------------------------------------------------|-------------------------------|
+|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------|
 
 ## Decision makers
 
@@ -52,7 +52,7 @@ The situation decision makers are in when they have to make a decision can be de
 
 ### Actions
 
-<!-- Describe what the decision makers can do achieve their objectives -->
+<!-- Describe what the decision makers can do to achieve their objectives -->
 Decision makers can take the following actions:
 
 - **Selection of Wind Turbine Type** (Categorical): [Model 1, Model 2, …, Model 20]  

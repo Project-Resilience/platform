@@ -69,7 +69,7 @@ The situation decision makers are in when they have to make a decision can be de
 
 ### Actions
 
-<!-- Describe what the decision makers can do achieve their objectives -->
+<!-- Describe what the decision makers can do to achieve their objectives -->
 Decision makers can take the following actions:
 
 1. **BiasTraining** (Categorical): ['None', 'Awareness', 'Structured'] - Level of bias-awareness training for the investment team.

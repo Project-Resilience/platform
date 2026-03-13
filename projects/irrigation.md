@@ -41,7 +41,7 @@ The user interface is available here: [Irrigation Strategy App](https://irrigati
 
 ### Actions
 
-<!-- Describe what the decision makers can do achieve their objectives -->
+<!-- Describe what the decision makers can do to achieve their objectives -->
 
 - Irrigation strategy:
     - Current: soil moisture thresholds

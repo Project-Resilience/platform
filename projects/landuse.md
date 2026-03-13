@@ -55,7 +55,7 @@ The situation decision makers are in when they have to make a decision can be de
 
 ### Actions
 
-<!-- Describe what the decision makers can do achieve their objectives -->
+<!-- Describe what the decision makers can do to achieve their objectives -->
 Decision makers change the land use percentages in the following categories. Primary vegetation is prevented from being changed because the ultimate goal should be to preserve it. Urban land is unable to be changed because different sets of decision-makers are responsible for urban planning.:
 - Crop diff
 - Field diff

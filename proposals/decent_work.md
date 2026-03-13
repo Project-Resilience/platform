@@ -1,7 +1,7 @@
 # Decent Work Initiatives
 
 <!-- Describe the project in one sentence, e.g. A project that... -->
-A project to help understanding the effectiveness of initiatives aimed at creating decent work conditions,
+A project to help understand the effectiveness of initiatives aimed at creating decent work conditions,
 analyzing data on employment quality, worker satisfaction, and economic impact.
 
 <!-- Note: using reference-style links to let Jekyll's relative links
@@ -49,7 +49,7 @@ The situation decision makers are in when they have to make a decision can be de
 
 ### Actions
 
-<!-- Describe what the decision makers can do achieve their objectives -->
+<!-- Describe what the decision makers can do to achieve their objectives -->
 Decision makers can take the following actions:
 
 1. **InitiativeType** (Categorical): ['TrainingProgram', 'WageSubsidy', 'EmploymentProtection', 'JobCreation', 'WorkConditionImprovement']

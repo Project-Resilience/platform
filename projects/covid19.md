@@ -53,7 +53,7 @@ The situation decision makers are in can be described by the following time seri
 
 ### Actions
 
-<!-- Describe what the decision makers can do achieve their objectives -->
+<!-- Describe what the decision makers can do to achieve their objectives -->
 Decision makers can decide, on a daily basis, what the intervention plan should be:
 - C1_School closing
 - C2_Workplace closing

@@ -52,7 +52,7 @@ The situation decision makers are in when they have to make a decision can be de
 
 ### Actions
 
-<!-- Describe what the decision makers can do achieve their objectives -->
+<!-- Describe what the decision makers can do to achieve their objectives -->
 Decision makers can take the following actions:
 
 1. **ConflictResolutionWorkshops**: Categorical; Possible values: ['Weekly', 'Monthly', 'Quarterly', 'None']
@@ -67,7 +67,7 @@ Decision makers can take the following actions:
 Decision makers are evaluated on the following outcomes:
 
 1. **ConflictResolutionEffectiveness**: Integer; Range: [0, 100] (Higher values indicate more effective conflict resolution) (Maximize)
-2. **SocialCohesionLevel**: Integer; Range: [0, 100] (Higher values indicate stronger social cohesion)(Maximize)
+2. **SocialCohesionLevel**: Integer; Range: [0, 100] (Higher values indicate stronger social cohesion) (Maximize)
 3. **TrustInLocalGovernanceImprovement**: Integer; Range: [0, 100] (Improvement in trust levels) (Maximize)
 4. **Cost**: Integer; Calculated based on the actions taken, with more intensive programs and initiatives requiring higher costs. (Minimize)
 
