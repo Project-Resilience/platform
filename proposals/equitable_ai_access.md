@@ -14,8 +14,8 @@ convert them to .html in GitHub pages -->
 [goal_17_link]: ../goals/goal_17.md
 
 <!-- Insert SDG Icons and links-->
-| [![Goal X1](../images/sdgs/empty.png)][goal_X1_link] | [![Goal X2](../images/sdgs/empty.png)][goal_X2_link] | ![](../images/sdgs/empty.png) |
-|------------------------------------------------------|------------------------------------------------------|-------------------------------|
+| [![Goal 10](../images/sdgs/E-WEB-Goal-10.png)][goal_10_link] | [![Goal 16](../images/sdgs/E-WEB-Goal-16.png)][goal_16_link] | [![Goal 09](../images/sdgs/E-WEB-Goal-09.png)][goal_09_link] |[![Goal 17](../images/sdgs/E-WEB-Goal-17.png)][goal_17_link] |
+|------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
 
 ## Decision makers
 
@@ -50,7 +50,7 @@ Establish the internationally recognised definition of a universal minimum stand
 
 ### Objective 2 — Evidence-Based Bias Taxonomy
 
-Develop and maintain the globally validated taxonomy of AI bias types across geopolitical, cultural, linguistic, and data sovereignty dimensions, extending and standardising  existing research and empirical frameworks into a dynamic, open-source, continuously maintained resource hosted in the AI and Data Commons.
+Develop and maintain the globally validated taxonomy of AI bias types across geopolitical, cultural, linguistic, and data sovereignty dimensions, extending and standardising existing research and empirical frameworks into a dynamic, open-source, continuously maintained resource hosted in the AI and Data Commons.
 
 - SDG 17.18: Build capacity for high-quality, disaggregated data
 - SDG 17.19: Develop measurements of progress on sustainable development
@@ -78,7 +78,7 @@ What will be built for this project?
 
 <!-- Describe the deliverables of the project. For instance: -->
 
-- [x] Publicaiton: **Universal Minimum AI Access Standard** — functional floor definition below
+- [x] Publication: **Universal Minimum AI Access Standard** — functional floor definition below
       which AI service quality must not fall, expressed in outcome terms, developed
       through open multilateral consultation
 - [x] Publication: **Global AI Access Gap Report** — annual publication mapping where the minimum
@@ -126,7 +126,7 @@ The situation decision makers are in when they have to make a decision can be de
 
 ### Actions
 
-<!-- Describe what the decision makers can do achieve their objectives -->
+<!-- Describe what the decision makers can do to achieve their objectives -->
 Decision makers can take the following actions:
 
 1. **PolicyIntervention**: Geofencing Prohibition, Censorship Disclosure Mandates,
@@ -178,7 +178,7 @@ platform. Third parties may submit models for evaluation via a public API.
 <!-- What kind of help is currently needed for this project? -->
 
 List of needs:
-- **Increase awareness of decision makers** - Discuss the topic at UN driven AI events to attract attention of desision makers to this problem.
+- **Increase awareness of decision makers** - Discuss the topic at UN driven AI events to attract attention of decision makers to this problem.
 - **Contacts with decision makers** — national AI policy officials, ITU and UNESCO
   representatives, digital rights civil society organisations
 - **UI/UX designers** — public-facing interactive decision-support platform
@@ -221,6 +221,6 @@ Censorship in LLM Models.
 
 <!-- Provide a link to a space for discussion or comments -->
 [Ensuring Equitable Global AI Access](https://github.com/Project-Resilience/platform/discussions/94)
-[Goal 10: Reduce inequality within and among countries](https://github.com/Project-Resilience/platform/discussions/32#discussioncomment-15950059)
 
+----
 [Back to the list of projects](../README.md)
