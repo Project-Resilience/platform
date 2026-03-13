@@ -14,6 +14,7 @@ Goal 9: [Build resilient infrastructure, promote inclusive and sustainable indus
 
 - [Flood Defense Systems](../proposals/flood_defense.md)
 - [Adoption of Smart Grid Technology to Enhance Renewable Energy Integration](../proposals/smart_grid.md)
+- [PROJECT ISONOMIA - Ensuring Equitable Global AI Access](../proposals/equitable_ai_access.md)
 
 ## Discussions
 

@@ -220,7 +220,7 @@ Censorship in LLM Models.
 ## Discussion
 
 <!-- Provide a link to a space for discussion or comments -->
-[Ensuring Equitable Global AI Access](https://github.com/Project-Resilience/platform/discussions/94)
+- [Ensuring Equitable Global AI Access](https://github.com/Project-Resilience/platform/discussions/94)
 
 ----
 [Back to the list of projects](../README.md)

@@ -13,6 +13,7 @@ Goal 16: [Promote peaceful and inclusive societies for sustainable development, 
 ## Proposals
 
 - [Community-Based Conflict Resolution and Peace Building Initiative](../proposals/conflict_resolution.md)
+- [PROJECT ISONOMIA - Ensuring Equitable Global AI Access](../proposals/equitable_ai_access.md)
 
 ## Discussions
 
