@@ -1,87 +1,102 @@
 # Project Resilience
-Project Resilience's platform for decision makers, data scientists and the public.
 
-[Project Resilience](https://www.itu.int/en/ITU-T/extcoop/ai-data-commons/Pages/project-resilience.aspx),
-initiated under the Global Initiative on AI and Data Commons, is a collaborative effort
-to build a public AI utility that could inform and help address global decision-augmentation challenges.
+<div align="center">
 
-The project empowers a global community of innovators, thought leaders, and the public to enhance and use
-a shared collection of data and AI tools, improving preparedness, intervention, and response to environmental,
-health, information, or economic threats in our communities.
-It also supports broader efforts toward achieving the [Sustainable Development Goals (SDGs)](https://sdgs.un.org/).
+![Project Resilience Banner](https://via.placeholder.com/1200x400/0a3d62/ffffff?text=Project+Resilience)  
+*A public AI utility for global resilience*
 
-More info about Project Resilience [here](https://www.itu.int/en/ITU-T/extcoop/ai-data-commons/Pages/project-resilience.aspx).
+**Platform for decision makers • data scientists • communities**
 
-Click [here](https://huggingface.co/spaces/projectresilience/projectresilience-assistant) to chat with Project Resilience Assistant to know more about it.
+[Official ITU Page](https://www.itu.int/en/ITU-T/extcoop/ai-data-commons/Pages/project-resilience.aspx)  
+[Chat with Project Resilience Assistant](https://huggingface.co/spaces/projectresilience/projectresilience-assistant)
 
-## Volunteers
+</div>
 
-If you would like to get involved:
-- Browse through the SDGs below
-- Find a project that interests you
-- Or find a proposal that interests you
-- Or look at the discussions for this SDG and brainstorm with the community
+---
 
-You can also [find us on Slack](https://join.slack.com/t/projectresiliencehq/shared_invite/zt-3imc82ytt-NU6JK~z2XYSy3VuUawSmpg).
+## About the Project
 
-## How to navigate the platform
+**Project Resilience** is a collaborative initiative under the **ITU Global Initiative on AI and Data Commons**.  
 
-[![Project Resilience Tutorial](images/project_resilience_thumb.png)](https://youtu.be/b2_PvxPSif0 "Project Resilience Tutorial")
+It aims to build a **shared public AI utility** that helps humanity better prepare for, intervene in, and respond to environmental, health, information, and economic threats — while advancing the [Sustainable Development Goals (SDGs)](https://sdgs.un.org/).
 
-## Projects
+The platform brings together innovators, thought leaders, technical contributors, decision makers, and the public around a common collection of open data and AI tools.
 
-Select a Sustainable Development Goal (SDG) from the list below to view projects for that goal.
+**More information**: [ITU Official Project Page](https://www.itu.int/en/ITU-T/extcoop/ai-data-commons/Pages/project-resilience.aspx)
 
-<!-- Note: using reference-style links to let Jekyll's relative links
-convert them to .html in GitHub pages -->
-[goal_01_link]: goals/goal_01.md
-[goal_02_link]: goals/goal_02.md
-[goal_03_link]: goals/goal_03.md
-[goal_04_link]: goals/goal_04.md
-[goal_05_link]: goals/goal_05.md
-[goal_06_link]: goals/goal_06.md
-[goal_07_link]: goals/goal_07.md
-[goal_08_link]: goals/goal_08.md
-[goal_09_link]: goals/goal_09.md
-[goal_10_link]: goals/goal_10.md
-[goal_11_link]: goals/goal_11.md
-[goal_12_link]: goals/goal_12.md
-[goal_13_link]: goals/goal_13.md
-[goal_14_link]: goals/goal_14.md
-[goal_15_link]: goals/goal_15.md
-[goal_16_link]: goals/goal_16.md
-[goal_17_link]: goals/goal_17.md
+---
 
-| [![Goal 01](images/sdgs/E-WEB-Goal-01.png)][goal_01_link] | [![Goal 02](images/sdgs/E-WEB-Goal-02.png)][goal_02_link] | [![Goal 03](images/sdgs/E-WEB-Goal-03.png)][goal_03_link]              |
-|-----------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------|
-| [![Goal 04](images/sdgs/E-WEB-Goal-04.png)][goal_04_link] | [![Goal 05](images/sdgs/E-WEB-Goal-05.png)][goal_05_link] | [![Goal 06](images/sdgs/E-WEB-Goal-06.png)][goal_06_link]              |
-| [![Goal 07](images/sdgs/E-WEB-Goal-07.png)][goal_07_link] | [![Goal 08](images/sdgs/E-WEB-Goal-08.png)][goal_08_link] | [![Goal 09](images/sdgs/E-WEB-Goal-09.png)][goal_09_link]              |
-| [![Goal 10](images/sdgs/E-WEB-Goal-10.png)][goal_10_link] | [![Goal 11](images/sdgs/E-WEB-Goal-11.png)][goal_11_link] | [![Goal 12](images/sdgs/E-WEB-Goal-12.png)][goal_12_link]              |
-| [![Goal 13](images/sdgs/E-WEB-Goal-13.png)][goal_13_link] | [![Goal 14](images/sdgs/E-WEB-Goal-14.png)][goal_14_link] | [![Goal 15](images/sdgs/E-WEB-Goal-15.png)][goal_15_link]              |
-| [![Goal 16](images/sdgs/E-WEB-Goal-16.png)][goal_16_link] | [![Goal 17](images/sdgs/E-WEB-Goal-17.png)][goal_17_link] | [![Goal ALL](images/sdgs/global-goals.png)](https://sdgs.un.org/goals) |
+## Quick Start
 
-## Contributing
+- **[Chat with the Project Resilience Assistant](https://huggingface.co/spaces/projectresilience/projectresilience-assistant)** — Ask anything about the project  
+- **[Watch the Platform Tutorial](https://youtu.be/b2_PvxPSif0)**  
 
-### Roles
+[![Project Resilience Tutorial](images/project_resilience_thumb.png)](https://youtu.be/b2_PvxPSif0)
 
-Users of the platform can have different profiles, such as:
-- **Decision Makers**: Users who make decisions based on the data and insights provided by the platform.
-- **Technical contributors**: Users who gather data, analyze data, train models, create UIs, deploy applications
-to provide insights to decision makers.
-- **Public**: Users who are interested in learning about the projects and proposals on the platform, 
-and may provide feedback or suggestions.
-- **Moderators**: Users who review and approve proposals and projects submitted to the platform.
+---
 
-### Data
+## Get Involved
 
-Each project relies on data. Please read the [data guidelines](data/data_guidelines.md) to learn how to contribute data.
+We welcome contributors of all kinds!
 
-### Proposals
+**You can participate by:**
+- Browsing the Sustainable Development Goals below
+- Exploring existing **Projects** and **Proposals**
+- Joining discussions and brainstorming with the community
+- Contributing data, code, models, or ideas
 
-Proposals can be submitted by creating a new file in the `proposals` directory and linking it to the
-corresponding SDGs. Please follow the [proposal template](proposals/proposal_template.md) when creating a new proposal.
+**Join our community on Slack** → [Invite Link](https://join.slack.com/t/projectresiliencehq/shared_invite/zt-3imc82ytt-NU6JK~z2XYSy3VuUawSmpg)
 
-### Projects
+---
 
-Projects can be submitted by creating a new file in the `projects` directory and linking it to the
-corresponding SDGs. Please follow the [project template](projects/project_template.md) when creating a new project.
+## Sustainable Development Goals
+
+Select an SDG to explore related **projects** and **proposals**.
+
+<div align="center">
+
+| [![SDG 1](images/sdgs/E-WEB-Goal-01.png)](goals/goal_01.md) | [![SDG 2](images/sdgs/E-WEB-Goal-02.png)](goals/goal_02.md) | [![SDG 3](images/sdgs/E-WEB-Goal-03.png)](goals/goal_03.md) |
+|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
+| [![SDG 4](images/sdgs/E-WEB-Goal-04.png)](goals/goal_04.md) | [![SDG 5](images/sdgs/E-WEB-Goal-05.png)](goals/goal_05.md) | [![SDG 6](images/sdgs/E-WEB-Goal-06.png)](goals/goal_06.md) |
+| [![SDG 7](images/sdgs/E-WEB-Goal-07.png)](goals/goal_07.md) | [![SDG 8](images/sdgs/E-WEB-Goal-08.png)](goals/goal_08.md) | [![SDG 9](images/sdgs/E-WEB-Goal-09.png)](goals/goal_09.md) |
+| [![SDG 10](images/sdgs/E-WEB-Goal-10.png)](goals/goal_10.md) | [![SDG 11](images/sdgs/E-WEB-Goal-11.png)](goals/goal_11.md) | [![SDG 12](images/sdgs/E-WEB-Goal-12.png)](goals/goal_12.md) |
+| [![SDG 13](images/sdgs/E-WEB-Goal-13.png)](goals/goal_13.md) | [![SDG 14](images/sdgs/E-WEB-Goal-14.png)](goals/goal_14.md) | [![SDG 15](images/sdgs/E-WEB-Goal-15.png)](goals/goal_15.md) |
+| [![SDG 16](images/sdgs/E-WEB-Goal-16.png)](goals/goal_16.md) | [![SDG 17](images/sdgs/E-WEB-Goal-17.png)](goals/goal_17.md) | [![All Goals](images/sdgs/global-goals.png)](https://sdgs.un.org/goals) |
+
+</div>
+
+---
+
+## How to Contribute
+
+### User Roles
+
+- **Decision Makers** – Use platform insights to drive informed action and policy
+- **Technical Contributors** – Gather data, analyze, train models, build tools and UIs
+- **Public / Community** – Learn, give feedback, suggest ideas, and participate in discussions
+- **Moderators** – Review and approve new proposals and projects
+
+### Contribution Pathways
+
+| Contribution Type | How to Contribute |
+|-------------------|-------------------|
+| **Data**          | Read the [Data Guidelines](data/data_guidelines.md) |
+| **Proposals**     | Create a new file in the `proposals/` folder using the [Proposal Template](proposals/proposal_template.md) |
+| **Projects**      | Create a new file in the `projects/` folder using the [Project Template](projects/project_template.md) |
+
+---
+
+## Navigation & Resources
+
+- [Official ITU Project Page](https://www.itu.int/en/ITU-T/extcoop/ai-data-commons/Pages/project-resilience.aspx)
+- [Sustainable Development Goals](https://sdgs.un.org/goals)
+- [Project Resilience Assistant](https://huggingface.co/spaces/projectresilience/projectresilience-assistant)
+- [Community Slack](https://join.slack.com/t/projectresiliencehq/shared_invite/zt-3imc82ytt-NU6JK~z2XYSy3VuUawSmpg)
+
+---
+
+**Project Resilience** — Building a more resilient future through open AI and shared data.
+
+---
+
+*Initiated under the ITU Global Initiative on AI and Data Commons*
