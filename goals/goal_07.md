@@ -16,6 +16,7 @@ Goal 7: [Ensure access to affordable, reliable, sustainable and modern energy fo
 - [Adoption of Smart Grid Technology to Enhance Renewable Energy Integration](../proposals/smart_grid.md)
 - [Solar Energy Technology Transfer](../proposals/technology_transfer.md)
 - [Wind Turbine Type Recommendation](../proposals/wind_turbine.md)
+- [Renewable Plant Conversion](../proposals/renewable_plant_conversion.md)
 
 ## Discussions
 

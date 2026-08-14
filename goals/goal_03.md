@@ -13,6 +13,7 @@ Goal 3: [Ensure healthy lives and promote well-being for all at all ages][un_sdg
 ## Proposals
 
 - [Global Polio Eradication Initiative](../proposals/polio_eradication.md)
+- [Heatwave Resilience](../proposals/heatwave_resilience.md)
 
 ## Discussions
 
