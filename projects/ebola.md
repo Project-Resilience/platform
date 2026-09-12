@@ -98,6 +98,6 @@ List of needs:
 ## Discussion
 
 <!-- Provide a link to a space for discussion or comments -->
-(no discussion yet)
+Use this discussion space to share your thoughts, ideas, and feedback about the project: [Ebola prevention and control discussion](https://github.com/Project-Resilience/platform/discussions/103)
 
 [Back to the list of projects](../README.md)
